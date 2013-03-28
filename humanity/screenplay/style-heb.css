@@ -1,0 +1,10 @@
+body
+{
+    direction: rtl;
+    text-align: right;
+    font-family: David;
+}
+p
+{
+	font-size: 120%;
+}
