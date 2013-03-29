@@ -1,25 +1,29 @@
 <s id="summerschool-at-the-NSA" title="Summerschool at the NSA">
 
+<s id="about" title="About this screenplay">
+
 [Note: This screenplay was written by <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and is original artwork.]
 
-[Mr. Fish would like to apologise to
+[Mr. Fish would like to apologise to the real-life and living
 <a href="http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar">Ms.
 Sarah Michelle Gellar</a> (abbreviated as SMG) and to
 <a href="http://en.wikipedia.org/wiki/Summer_Glau">Ms. Summer Glau</a>
-(abbreviated as SGlau), who are featured in tihs story as themselves, if he
+(abbreviated as SGlau), who are featured in this story as themselves, if he
 has misrepesented them.]
 
-[Abstract: SMG and SGlau conspire to take the United States National Security
-Agency (NSA) out of the equation. See how they succeed. This is surrealistic
-realism, but can actually happen.]
+[Abstract: Sarah Michelle Gellar and Summer Glau conspire to take the United
+States National Security Agency (NSA) out of the equation. See how they
+succeed. This is surrealistic realism, but can actually happen.]
 
 [For more information and anti-NSA activism by Shlomi Fish, see
 <a href="http://www.shlomifish.org/humour/bits/facts/NSA/">the
 NSA “facts” page</a> (a la Chuck Norris factoids).]
 
+</s>
+
 <s id="we_are_scheming" title="“We’re Scheming”">
 
-[Black screen, SMG’s voice emulating her daughter.]
+[Black screen, SMG’s voice, while emulating her daughter.]
 
 SMG: Humpty dumpty sat on a wall. Humpty dumpty had a great fall. And all the
 King's horses, and all the King's men could not put Humpty together again.
