@@ -250,14 +250,30 @@ guarding station. She enters.]
 is Black, and Daniel, who is a Caucasian. SGlau enters, and takes off her
 sunglasses. ]
 
-SGlau: good morning, gentlemen.
+SGlau: Good morning, gentlemen.
 
-Andrew: good morning, ma'am! What is your business here?
+Andrew: Good morning, ma’am! What is your business here?
 
 SGlau: I am Summer Glau’s terminator from <i>The Sarah Connor
 Chronicles</i>. I would like to get clearance for entering these premises.
 
-Daniel: what? A terminator? Are you crazy?
+Daniel: What? A terminator? Ma’am, are you crazy?
+
+SGlau: Well, I am as crazy as terminators go. I have terminated Summer Glau,
+the Hollywood actress, and assumed her identity, here is her passport and her
+driving licence. [She hands them to the guards.]
+
+Andrew: Looks legit, and the face matches. Holy shit, are you really Ms. Glau?
+
+SGlau: actually - I’m her terminator. [she takes down her backpack and puts
+it on the floor in front of her.]
+
++++: you may wish to know that I have a gun in that backpack.
+
+Daniel: what??! Put your hands in the air!
+
+[SGlau quickly puts her hands in the air, looking scared.]
+
 
 </s>
 
