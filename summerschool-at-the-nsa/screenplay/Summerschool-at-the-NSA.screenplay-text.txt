@@ -227,5 +227,41 @@ SGlau: [grabs a cookie] I’m listening!
 
 </s>
 
+<s id="summer_glau_gets_clearance" title="Summer Glau Gets Clearance">
+
+<s id="getting_clearance__parking_lot" title="At the parking lot.">
+
+[Captions: “Two days later: The NSA Headquarters near Fort Meade, Maryland”.
+
+The screen fades in to show a parking lot, a car arrives and gets parked in
+a vacant spot. SGlau wearing warm clothes, and sunglasses gets out of the
+driver’s seat, she rubs her palms against her hands.]
+
+SGlau: so much for summer.
+
+[She wears a coat, and puts on a large full backpack and walks to the
+guarding station. She enters.]
+
+</s>
+
+<s id="getting_clearance__at_the_guards" title="At the guarding station">
+
+[There are two U.S. soldiers standing there holding machine guns - Andrew, who
+is Black, and Daniel, who is a Caucasian. SGlau enters, and takes off her
+sunglasses. ]
+
+SGlau: good morning, gentlemen.
+
+Andrew: good morning, ma'am! What is your business here?
+
+SGlau: I am Summer Glau’s terminator from <i>The Sarah Connor
+Chronicles</i>. I would like to get clearance for entering these premises.
+
+Daniel: what? A terminator? Are you crazy?
+
+</s>
+
+</s>
+
 </s>
 
