@@ -4,8 +4,10 @@
 
 =head2 Text
 
-The screenplay “Humanity - The Movie” is original,
-and as far as I am concerned is Copyright by Shlomi Fish, 2001 and
+The screenplay “Summerschool at the NSA” is original,
+and as far as I am concerned is Copyright by Shlomi Fish, 2013 and
 available under the
 L<http://creativecommons.org/licenses/by-sa/3.0/>, either version 3.0 or at
 your option any later version.
+
+=cut
