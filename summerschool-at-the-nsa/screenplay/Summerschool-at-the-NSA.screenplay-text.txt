@@ -449,12 +449,24 @@ SGlau: Michelle Gellar.
 
 Andrew and Daniel: wow! She’s also behind this?
 
-SGlau: yes.
+SGlau: yes, she is.
 
 Andrew: heh, it only gets better and better. OK, let's get back to business -
 follow us.
 
 [Cut.]
+
+</s>
+
+<s id="getting_clearance__after_getting_the_clearance" title="After Getting the Clearance">
+
+[Same room as before. Message on the screen: “Three hours later”.
+
+SGlau, Andrew and Daniel enter.]
+
+SGlau: oh my God! I can’t believe, it is finally over. That was <b>so</b>
+vexing.
+
 
 </s>
 
