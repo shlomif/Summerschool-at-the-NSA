@@ -56,8 +56,42 @@ scenery and animals.
         - SGlau: "don't you want to know who the architects of me coming here
         were?"
         - Better sit down.
-        - SGlau: "Sarah. Michelle Gellar."
+        - SGlau: "Sarah. Michelle. Gellar."
             - NSA head: "No!!! I knew it. I knew that… that… woman was Satan.
             How dare she? Death would be better than this."
                 - starts sobbing.
 
+* The NSA chief tells the story about SMG :
+    - several young people arrived for internship during the summer of 1997.
+    - SMG starred in Buffy, and became an instant role model and object
+    of affection among youth (and some older people) and also made her first
+    major and notable film debuts in such films as
+    http://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer and
+    http://en.wikipedia.org/wiki/Scream_2
+    which were cheesy and not-so-scary horror films.
+    - It became a meme among the interns that “If 'Summerschool at the NSA'
+    was SMG’s next film, it would have been scary.”
+        - most interns left citing this.
+    - It continued to haunt the NSA.
+    - Meme appears on the Internet:
+        - http://www.shlomifish.org/humour.html#smg_next_film
+    - The NSA hires a PI to monitor SMG:
+        - seems to lead an ordinary life of:
+            - filming.
+            - modelling.
+            - eating.
+            - training.
+            - sleeping.
+            - dating.
+            - socialising.
+        - decide that she is not a threat.
+    - SGlau asks what the NSA did wrong in allowing such a huge breach of
+    their “security” by her?
+        - https://meta.wikimedia.org/wiki/User:Shlomif/Guidelines_Encouraging_Participation_in_Wikis#Learning_from_Saladin
+        - http://unarmed.shlomifish.org/2615.html
+            - Publish or Perish = Life or Death
+    - SGlau and the NSA chief leave to take his wife on a date - first time
+    for many years, with SGlau there.
+        - "Class dismissed".
+        - applause.
+    - End credits.
