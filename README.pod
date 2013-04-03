@@ -6,9 +6,11 @@
 
 This repository contains the sources for I<Summerschool at the NSA>,
 an original screenplay by Shlomi Fish (L<http://www.shlomifish.org/>):
-“The Hollywood actresses Sarah Michelle Gellar and Summer Glau conspire to
-take the NSA (= the United States government’s National Security Agency) out
-of the equation. See how they succeed in doing that.”
+“The Hollywood actresses Sarah Michelle Gellar (of Buffy fame) and
+Summer Glau (of L<http://xkcd.com/> notability) conspire to
+kick the ass of the NSA (= the United States government’s
+National Security Agency) by using special warfare that is completely
+non-violent.”
 
 =head2 Links
 
@@ -20,13 +22,13 @@ L<http://www.shlomifish.org/humour/Summerschool-at-the-NSA/>
 
 =back
 
-=head2 Building
+=head2 Building the Screenplay
 
-Go to C<summerschool-at-the-nsa/screenplay/> and type C<make> .
+Go to C<./summerschool-at-the-nsa/screenplay/> and type C<make> .
 
 =head2 Ideas document / plot summary
 
-The file C<summerschool-at-the-nsa/ideas/ideas.txt> contains some ideas to
+The file C<./summerschool-at-the-nsa/ideas/ideas.txt> contains some ideas to
 put into the story.
 
 =cut
