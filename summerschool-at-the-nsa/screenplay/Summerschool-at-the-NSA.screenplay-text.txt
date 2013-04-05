@@ -583,31 +583,31 @@ Andrew: Bye, Daniel, you lucky bastard, have fun!
 
 SGlau and Daniel enter through the door.]
 
-SGlau: thanks, Daniel! I had a great time.
+SGlau: Thanks, Daniel! I had a great time.
 
-Daniel: you're welcome, Summer. I had a great time too. Never thought that
+Daniel: You're welcome, Summer. I had a great time too. Never thought that
 a date in a fast food restaurant could be so much fun.
 
-SGlau: thanks. Well… let's get back to business - how do I enter into
+SGlau: Thanks. Well… let's get back to business - how do I enter into
 the building?
 
-Andrew: hi, peeps.
+Andrew: Hi, peeps.
 
-SGlau: oh, hi Andrew.
+SGlau: Oh, hi Andrew.
 
-Daniel: hi, Andrew.
+Daniel: Hi, Andrew.
 
-Andrew: yes, well, you need to get through the inner gate.
+Andrew: Yes, well, you need to get through the inner gate.
 
-SGlau: using my car?
+SGlau: Using my car?
 
-Andrew: in that case, they'll need to search the car.
+Andrew: In that case, they'll need to search the car.
 
-SGlau: then I'll avoid it. I'll walk there.
+SGlau: Then I'll avoid it. I'll walk there.
 
-Andrew: sounds good, ma'am.
+Andrew: Sounds good, ma'am.
 
-Daniel: hey! How about one of us escorting you?
+Daniel: Hey! How about one of us escorting you?
 
 Andrew: Yeah, but who?
 
@@ -615,29 +615,29 @@ Daniel: How about you this time?
 
 Andrew: Heh — sure! If only to make my girlfriend jealous.
 
-SGlau: and more bitchy.
+SGlau: And more bitchy.
 
-Andrew: yeah, well, Daniel, stay here while I escort Ms. Glau.
+Andrew: Yeah, well, Daniel, stay here while I escort Ms. Glau.
 
-Daniel: bye, enjoy.
+Daniel: Bye, enjoy.
 
-SGlau: bye.
+SGlau: Bye.
 
-Andrew: see you, man.
+Andrew: See you, man.
 
 </s>
 
 <s id="getting_inside__to_the_inner_fence" title="To the Inner Fence">
 
-SGlau: brrr… it’s cold.
+SGlau: Brrr… it’s cold.
 
-Andrew: yes, that's the East coast for you.
+Andrew: Yes, that's the East coast for you.
 
-SGlau: yeah.
+SGlau: Yeah.
 
-+++: wanna hear a joke that an Israeli friend of mine told me?
++++: Wanna hear a joke that an Israeli friend of mine told me?
 
-Andrew: sure.
+Andrew: Sure.
 
 SGlau: So they hold a contest to see which intelligence agency can find a
 rabbit in a forest as quickly as possible.
