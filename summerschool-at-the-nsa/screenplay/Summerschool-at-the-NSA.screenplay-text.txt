@@ -747,9 +747,93 @@ George: This place gives you no other option.
 
 [Fade to Black, cut.]
 
-</s>
+<!-- / getting_inside__inner_fence_crossing -->
 
 </s>
+
+<!-- / getting_inside -->
+
+</s>
+
+<s id="dr_feldman" title="Dr. Feldman">
+
+<s id="dr_feldman__inside_the_nsa" title="Inside the NSA’s Building">
+
+[ SGlau enters the door to the NSA’s headquarters building and looks around.
+there is a large hall with many corridors.
+
+It is warm so she takes off some of her clothes and hangs them on the collar.
+
+She starts walking down one corridor and notices that many of the walls are
+painted with beautiful and highly aesthetic paintings featuring natural
+scenery and animals. She stops to be impressed. ]
+
+SGlau: [Out loud] Wow! That's beautiful.
+
+[SGlau enters an office whose door is open and says.]
+
+SGlau: Hi! I am new here, who drew all these walls?
+
+Richard: Hello, Ma’am. You’re new here? You seem really out of place here.
+
+SGlau: Well, I am just visiting - got clearance [She shows him the badge.]
+
+Richard: Wow, OK. If you say so.
+
+SGlau: Yeah. [She blushes.]
+
+Richard: OK, let me show the office of Dr. Feldman who drew all these walls.
+He’s been drawing a lot on canvases and papers too.
+
+[Richard gets up and escorts SGlau.]
+
+SGlau: Thank you, Mr. …
+
+Richard: Oh, my name is Richard Johnson. You can call me Richard.
+
+SGlau: Summer, Summer Glau.
+
+Richard: Heh, like in xkcd?
+
+SGlau: The very one!
+
+Richard: Unbelieable. I thought there was no way an Hollywood actor could
+ever get a clearance to enter this place.
+
+SGlau: Why not?
+
+Richard: Don’t know… they are too famous, and so too dangerous for us.
+
+SGlau: Well, I am dangerous - I have my powers and this is how I got
+clearance.
+
+Richard: Heh, sounds wonderful, ma’am. Wish I was as powerful as you are.
+
+SGlau: You could be.
+
+Richard: Yes. Anyway - this is Dr. Feldman’s office [Points at the door. ] He
+is probably busy painting now. He is considered our best mathematician,
+but he spends most of his time painting those.
+
+SGlau: What does he do with all these paintings?
+
+Richard: He gives them away to us. They never leave this building.
+
+SGlau: That’s a shame - it was nice talking to you, Mr. Johnson.
+
+Richard: Richard, call me “Richard”.
+
+SGlau: you can call me “Summer”. [They shake hands.]
+
+<!-- / dr_feldman__inside_the_nsa -->
+
+</s>
+
+<!-- / dr_feldman -->
+
+</s>
+
+<!-- / summerschool-at-the-NSA (Main -->
 
 </s>
 
