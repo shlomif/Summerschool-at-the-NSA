@@ -931,9 +931,9 @@ SGlau: Sure, let me do my magic. OK, please take everything that you need.
 We’ll carry some of the paintings that you drew on paper, and we’ll leave
 the rest here. You can always draw new one.
 
-Dr. Feldman: Thank you, Ms. Glau. I Will Be Grateful For You Forever.
+Dr. Feldman: Thank you, Ms. Glau. I will be grateful for you forever.
 
-SGlau: You’re welcome and - thank you too.
+sGlau: You’re welcome and - thank you too.
 
 [They begin the arrangements,
 
