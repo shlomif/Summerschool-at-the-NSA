@@ -13,7 +13,7 @@ SPEC / Plan for the rest of the screenplay:
     - he memorised Spaceballs, Monty Python & The Holy Grail, and
         their Life of Brian and goes over them time and again for entertainment
         during guarding.
-    - SGlau recommend The Princess Bride too.
+    - SGlau recommends The Princess Bride too.
 
 * SGlau enters the building.
 
@@ -35,6 +35,8 @@ scenery and animals.
     - Cut
     - Handling a gun in each hand.
     - Cut
+    - D’Artagnan in The Three Musketeers and the inexperienced yet
+    rule-breaking boys, who fight against SGlau and still win some rounds.
     - TODO : add more.
 
 * The head of the NSA burges in.
