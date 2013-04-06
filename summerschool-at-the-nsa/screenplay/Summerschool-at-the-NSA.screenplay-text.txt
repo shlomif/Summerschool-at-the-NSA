@@ -1030,6 +1030,62 @@ SGlau: That’s great. [She leaves.]
 
 </s>
 
+<s id="summer_glau_presents" title="Summer Glau Presents to the NSA People">
+
+<s id="summer_glau_presents__gathering_everyone" title="Gathering Everyone">
+
+[SGlau enters the NSA building, and puts some of her clothes on the colar.
+
+She walks to Richard’s office.
+
+]
+
+SGlau: Hi, Richard. I’m back.
+
+Richard: Oh, hi, Summer. Is there anything I can do for you?
+
+SGlau: As a matter of fact - you can. Can you gather the folks here, or a
+large part of them anyway to the conference room? I’d like to give a talk.
+
+Richard: Hmmm… we are supposed to be working.
+
+SGlau: Work, work, work… what do you achieve at work?
+
+Richard: Not a lot, actually. The more I work, the less I achieve.
+
+SGlau: Heh, I am only too familiar with this symptom. [She flicks her hair.]
+
++++: What do you say to get everyone to take a break by hearing my talk?
+
+Richard: [Thinks for a moment] Fine, I will tell them we have an important
+guest — it won’t be a lie…
+
+[SGlau laughs. Cut.]
+
+<!-- / summer_glau_presents__gathering_everyone -->
+
+</s>
+
+<s id="summer_glau_presents__the_talk" title="The Talk">
+
+[ An NSA conference room. Richard is standing on the stage. SGlau set up the
+camera to film the talk on the table, and connected her tablet to the
+projector. ]
+
+Richard: OK, people, this is our special guest who will present
+a talk - Ms. Summer Glau, the Hollywood television actress.
+
+[Some grumbling from the crowd, due to surprise, along with some
+unenthusiastic applause.]
+
+<!-- / summer_glau_presents__the_talk -->
+
+</s>
+
+<!-- / summer_glau_presents -->
+
+</s>
+
 <!-- / summerschool-at-the-NSA (Main -->
 
 </s>
