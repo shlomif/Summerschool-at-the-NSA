@@ -943,6 +943,88 @@ Cut.]
 
 </s>
 
+<s id="dr_feldman__at_dr_feldmans_sister" title="At Dr. Feldman’s Sister">
+
+[SGlau, Dr. Feldman and his sister (= Mrs. Katz) are sitting at a table
+in Mrs. Katz’s kitchen.]
+
+Mrs. Katz: Oh, Ms. Glau, David and I cannot thank you enough. You’ve given
+him a new life, and we’ll always be grateful for that.
+
+SGlau: You're welcome, Mrs. Katz. We are all brothers and sisters and it’s
+our responsibility to care for every human being. Sarah always said that.
+“All of Israel are friends.”
+
+[She reaches to her pocket and takes out a chequebook. She scribbles something.]
+
+SGlau: Dr. Feldman, here is a cheque for 200 thousand dollars, which you can
+cash in if you need it.
+
+Dr. Feldman: Really? I cannot accept it, after all you’ve done.
+
+SGlau: No, I insist really.
+
+Dr. Feldman: I guess it’s a gift from a friend.
+
+SGlau: Yes, and also take this [she takes a small plastic bag out of her
+backpack and gives it to Dr. Feldman.]
+
+Dr. Feldman: What is it?
+
+SGlau: A signed photo and a set of role playing games dice. They are green.
+Let me know if you want a different colour.
+
+Dr. Feldman: Thank you, Ms. Glau. I will cherish that as a token of our
+friendship.
+
+SGlau: And I Mrs. Katz my contact details. Contact me if you need anything.
+
+Dr. Feldman: Thank you. [He rises up and hugs SGlau and then starts crying.]
+
+[Cut to SGlau. She has tears in her eyes. They stop hugging. ]
+
+SGlau: [crying] I’m sorry… I’m sorry…
+
+Mrs. Katz: that’s alright, Ms. Glau.
+
+[A young boy’s voice from outside the frame.]
+
+Peter: hey grandma, you won’t believe how I schooled Rob in basketball
+today.
+
+[Peter enters.]
+
+Peter: Hi, who are you?
+
+Mrs. Katz: Hi Peter, this is your uncle David, and this is a good friend
+of ours, Ms. Glau.
+
+Peter: Nice to meet you, Ms. Glau.
+
+SGlau: Nice to meet you, Peter.
+
++++: I would love to hang around here some more, but I need to go. My business
+for today is not finished.
+
+Peter: byeeeeee, Ms. Glau. [He giggles]
+
+Mrs. Katz: farewell.
+
+Dr. Feldman: farewell, Ms. Glau, and thanks for everything.
+
+SGlau: farewell all. [To Peter] Keep schooling others at basketball -
+that's the only way for them to learn.
+
+Peter: heh, thank you, Ma’am. Rob is getting better, actually.
+
+SGlau: That’s great. [She leaves.]
+
+[Cut.]
+
+<!-- / dr_feldman__at_dr_feldmans_sister -->
+
+</s>
+
 <!-- / dr_feldman -->
 
 </s>
