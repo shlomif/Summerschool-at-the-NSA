@@ -823,9 +823,64 @@ SGlau: That’s a shame - it was nice talking to you, Mr. Johnson.
 
 Richard: Richard, call me “Richard”.
 
-SGlau: you can call me “Summer”. [They shake hands.]
+SGlau: You can call me “Summer”. [They shake hands.]
+
+SGlau: Bye, thanks
+
+Richard: See You.
+
+[SGlau knocks on the door.]
+
+Dr. Feldman: [From behind the door.] Enter.
 
 <!-- / dr_feldman__inside_the_nsa -->
+
+</s>
+
+<s id="dr_feldman__in_dr_feldmans_office" title="In Dr. Feldman’s Office">
+
+[SGlau opens the door into Dr. Feldman’s office. She sees many paintings around
+on papers and canvases. Dr. Feldman is busy painting a new painting. There is
+a computer with many books and papers lying around the office.]
+
+SGlau: Hi, Dr. Feldman. I saw your paintings in the hall. They are beautiful.
+
+Dr. Feldman: [Sheepingly] That you, Ma’am. You should have seen my early
+paintings. They really sucked.
+
+SGlau: Heh, you should have seen me acting in my early roles or my early martial
+arts fights. I also sucked royally.
+
+Dr. Feldman: But you didn’t give up, didn’t you?
+
+SGlau: No, and neither did you.
+
+Dr. Feldman: No, I did not.
+
++++: Wait a sec… acting… fighting… are you an actress?
+
+SGlau: I sure am. My name is Summer Glau. I am pretty famous: starred in
+<i>Firefly</i>, <i>Terminator: The Sarah Connor Chronicles</i>, and -
+the web-comics <i>xkcd</i>.
+
++++: I have quite a following among geeks.
+
+Dr. Feldman: Wow, how did they let you in here?
+
+SGlau: I have some special powers. [She smiles and giggles.]
+
+Dr. Feldman: [starts sobbing] Oh, Ma’am, you should know that the reason
+I am painting all those paintings is because what I know here haunts me.
+I cannot tell it to the outside, because it’s wrong. And I want to.
+
+SGlau: You want to publish… As a fellow artist, I want to publish too.
+
+Dr. Feldman: “Publish or Perish” - they always told us that when I got my
+Ph.D.
+
+SGlau: And they were right.
+
+<!-- / dr_feldman__in_dr_feldmans_office -->
 
 </s>
 
