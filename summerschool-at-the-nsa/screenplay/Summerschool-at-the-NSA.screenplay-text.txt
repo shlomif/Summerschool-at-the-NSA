@@ -1270,6 +1270,128 @@ SGlau: OK, bring handkerchiefs and some water - quick!
 
 </s>
 
+<s id="nsa_director__tell_story" title="The NSA Director Tells His Story">
+
+[The screen fades in to reveal General Alexander and SGlau sitting on the
+floor in the hall. The General is calmer and stopped crying?.]
+
+SGlau: So what can you tell me about Ms. Gellar? Why do you think she
+is Satan?
+
+General Alexander: OK, it was the summer of 1997, the show <i>Buffy the
+Vampire Slayer</i> started airing and was all the rage among young men, and
+Gellar, who starred in it, started her foray into the cinema in such films
+as
+<a href="http://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer"><i>I
+Know What You Did Last Summer</i></a> and
+<a href="http://en.wikipedia.org/wiki/Scream_2"><i>Scream 2</i></a>, which
+were cheesy and not too scary.
+
++++: Anyway, we invited several young people for internship during then,
+and due to the conditions here, it became a meme among them that “If
+<i>Summerschool at the NSA</i> will be Sarah Michelle Gellar’s next film, it
+will be scary.”, and most interns left citing this. The years passed, Buffy
+remained popular, Gellar moved on to more acclaimed films, but it continued
+to haunt us.
+
+SGlau: I see.
+
+General Alexander: Eventually, the
+<a href="http://www.shlomifish.org/humour.html#smg_next_film">meme
+appeared on the Internet</a>, and drove us mad.
+
++++: We decided to monitor Gellar, but she seemed to lead an ordinary life
+of filming, modelling, eating, training, sleeping, dating, socialising, etc.
+- nothing to be afraid of.
+
++++: But today we were proven to be wrong.
+
+SGlau: Yes, you were.
+
++++: I have a question: what do you think you have done wrong in allowing
+such a huge breach of your organisation’s “security” by Sarah and I?
+
+General Alexander: Heh, that’s a good question - I wish I knew.
+
+SGlau: Let me ask you this - do you think unhappy people can be secure?
+
+General Alexander: [thinks for a moment.] Definitely not. A miserable person
+always causes his downfall.
+
+SGlau: Well, were you happy or miserable.
+
+General Alexander: Oh, we were miserable. I guess I forgot everything that
+I learned about
+<a href="https://meta.wikimedia.org/wiki/User:Shlomif/Guidelines_Encouraging_Participation_in_Wikis#Learning_from_Saladin">Saladin</a>. Man, I remember being
+exalted after finishing to read his biography.
+
++++: I forgot all about that.
+
+SGlau: Yes, yes. Also, do you think keeping all the NSA’s secrets to
+yourself was a sound strategy.
+
+General Alexander: [thinks for a moment] “Publish or Perish”, ma’am. No way
+around it.
+
+SGlau: Exactly.
+
++++: OK, let me tell you all a secret: there’s more to being an action hero
+or an action heroine than what you see in films and on television. The
+“into the maelstorm” action there is good for business and for captivating
+audiences, but not something a really good warrior will ever do. The first
+think they tell us in self-defence classes is to always avoid a battle, because
+it is better to be poorer, or looked down upon, or saddened, or depressed,
+than it is to be dead or injured.
+
++++: Saladin took a huge risk in liberating Palestine from Christian rule,
+but it had to be done, and he did it by being fare, and chivalrous and
+forgiving, and became an instant hero and a model for emulation for centuries.
+
++++: Similarly, I took a huge risk by going in here, because it had to be
+done, as part of my responsibility for my country, and the world, and to
+everybody. And I also handled it without bloodshed and with as little
+risk as possible, in a truly heroic fashion.
+
+General Alexander: Yes, Ms. Glau.
+
+SGlau: Now, what do you say of us fighting a little for your sake?
+
+General Alexander: Fighting? How?
+
+SGlau: General, are you married?
+
+General Alexander: Yes, I still am. It’s been a long while since I spent a
+lot of time with her. She’s been E-mailing me a lot of stuff she found on
+Television and the Internet, and I didn’t have time to read, view or
+hear it all - I just replied to it laconically. I cannot believe how selfish
+I was.
+
+SGlau: Yes, do you still love her?
+
+General Alexander: Oh, Ms. Glau! I do, but I wouldn’t blame her if she
+divorces me tomorrow - it may actually may make her happier.
+
+SGlau: OK, what do you say about preventing that? Maybe you and I shall
+take her on a date?
+
+General Alexander: Really, Ms. Glau? You will do it for me? My wife will
+be delighted. Not sure Uncle Sam will let me get off so easily, though.
+
+SGlau: Maybe not Uncle Sam, but how about the Messiah? He’s even above
+the president.
+
+General Alexander: The Messiah? Who is he?
+
+SGlau: I am. And you can be them too.
+
+General Alexander: Sounds crazy.
+
+SGlau: It is and it’s a long story, but normal people are never fun.
+
+<!-- / nsa_director__tell_story -->
+
+</s>
+
 <!-- / nsa_director -->
 
 </s>
