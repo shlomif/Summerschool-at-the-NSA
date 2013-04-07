@@ -1143,6 +1143,36 @@ You only see it in movies, but in real life, it’s a spectacularly bad idea.
 SGlau: In <a href="http://en.wikipedia.org/wiki/The_Three_Musketeers">The
 Three Musketeers</a>, Dumas tells the story of how d’Artagnan who is a young
 swordsman without much of an official training, from a remote region of France,
+eventually becomes the best fighter in France. This is despite the fact that
+his peers, Athos, Porthos, and Aramis have much more experience and training.
+
++++: It may seem farfetched, but before the industrialisation of the far east,
+and the way it interpreted martial arts with the coloured belts and all, there
+were regional masters of these arts, who practised them as much as they could
+and honed their skills. However, despite all that, they never ruled out that
+they would one day fight against someone who never faught before, and lose.
+
++++: I can attest to it from my experience. I have been training in martial
+arts for years, and part of what I do is instruct kids in the martial arts.
+A lot of them seem happy to get a chance to fight against someone famous like
+me, and doing that in Southern California like that is good for the ego - and
+it’s also good publicity. [The Audience laughs.]
+
++++: Now, most kids just want to learn the moves and fight in the proper way,
+but there's a minority of disobedient kids: they disrespect the rules,
+improvise moves, and they are strong and agile.
+
++++: And as surprising as it sounds, I have so far lost three rounds to such
+kids, all of them boys, despite my years of training and experience. I have
+yet to find a girl (probably a tomboy) who will achieve that, but I’m still
+hopeful that it will happen one day, heh. [Claps from the audience]
+
+[The door opens. Voice from back of the camera - General Keith B. Alexander .]
+
+General Alexander’s Voice: Hey, what’s going on here? Get back to work! And
+who might you be?
+
+[Cut.]
 
 <!-- / summer_glau_presents__the_talk -->
 
@@ -1152,7 +1182,44 @@ swordsman without much of an official training, from a remote region of France,
 
 </s>
 
-<!-- / summerschool-at-the-NSA (Main -->
+<s id="nsa_director" title="Dealing with the NSA Director">
+
+<s id="nsa_director__making_acquaintance" title="Making Acquaintance">
+
+SGlau: Hello, sir! Summer Glau - at your service! [Does a rudimentary
+salute.]
+
+General Alexander: Summer Glau… Summer Glau… The name rings a bell. OK, I want
+a report with all the possible intel about her on my desk in an hour. You got
+that?!
+
+[SGlau sighs and taps a few keys on the tablet. Eventually the
+screen shows some tabs including
+<a href="http://en.wikipedia.org/wiki/Summer_Glau">her Wikipedia page</a>,
+some fan sites and the xkcd references.]
+
+SGlau: There you go, sir - Wikipedia page, IMDB, some fan sites, and xkcd.
+I’m a Hollywood actress.
+
+General Alexander: You expect me to wikipedia you? That’s so unprofessional.
+
+SGlau: Well, like I told her in my talk, Amateurs can be better than the pros.
+
+General Alexander: OK, in any case, given that we do not allow anyone as famous
+and as hungry of publicity as a Hollywood actor here in the NSA, please leave
+these premises, immediately, Ms. Glau.
+
+SGlau: Fair enough, I can leave, but can I say a few things before that?
+
+<!-- nsa_director__making_acquaintance -->
+
+</s>
+
+<!-- / nsa_director -->
+
+</s>
+
+<!-- / summerschool-at-the-NSA (Main) -->
 
 </s>
 
