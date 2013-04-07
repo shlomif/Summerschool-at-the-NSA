@@ -399,7 +399,7 @@ SGlau: Well, the main reason is that he lives in Boston, while I am a
 California girl. As you can see, I hate the northern East Coast during most
 of the year.
 
-Andrew: ah, that sucks. And he probably thinks that you’re <b>way</b> out of
+Andrew: Ah, that sucks. And he probably thinks that you’re <b>way</b> out of
 his league.
 
 SGlau: Well, it may seem surprising, but the feeling is pretty mutual.
@@ -727,7 +727,7 @@ George: Probably not.
 
 [SGlau hands it in.]
 
-George: looks fine. [Calling the guarding station.] Hi, did you let
+George: Looks fine. [Calling the guarding station.] Hi, did you let
 Summer Glau, SSN #1234567890 clearance?… Affirmative… Affirmative…
 Fair enough. OK.
 
@@ -880,7 +880,7 @@ Ph.D.
 
 SGlau: And they were right.
 
-Dr. Feldman: yes, they were.
+Dr. Feldman: Yes, they were.
 
 [Dr. Feldman starts crying again.]
 
@@ -890,8 +890,8 @@ SGlau: Do you know what can cheer you up?
 
 Dr. Feldman: What?
 
-SGlau: <i>xkcd</i>! The web comic. I have it here on my tablet mirrored locally.
-Do you want to see it?
+SGlau: <i>xkcd</i>! The web comic. I have all its strips here on my
+tablet - mirrored locally. Do you want to see it?
 
 Dr. Feldman: I guess.
 
@@ -899,8 +899,8 @@ SGlau: OK. Let me show you some of my favourites.
 
 [Fade to black. Caption on the screen: “20 minutes later.”.]
 
-Dr. Feldman: oh, Ms. Glau, this comics you have shown me is so nice, I have
-not been happier in years. Thank you!
+Dr. Feldman: Oh, Ms. Glau, this comic strip you have shown me is really nice, I
+have not been happier in years. Thank you!
 
 SGlau: Dr. Feldman… you know how you can be happier?
 
@@ -922,7 +922,7 @@ was 100 years ago. The second best time to plant a tree is now.”
 
 +++: And it takes less than 100 years to learn how to program.
 
-Dr. Feldman: Yeah, Ms. Glau, you are right.
+Dr. Feldman: Yeah, Ms. Glau, I guess you are right.
 
 +++: Can you get me out of here? I can live with my sister, who lives
 here in Maryland. We’ve been corresponding over E-mail.
@@ -971,7 +971,7 @@ backpack and gives it to Dr. Feldman.]
 
 Dr. Feldman: What is it?
 
-SGlau: A signed photo and a set of role playing games dice. They are green.
+SGlau: A signed photo and a set of role playing games’ dice. They are green.
 Let me know if you want a different colour.
 
 Dr. Feldman: Thank you, Ms. Glau. I will cherish that as a token of our
@@ -986,11 +986,11 @@ Dr. Feldman: Thank you. [He rises up and hugs SGlau and then starts crying.]
 
 SGlau: [crying] I’m sorry… I’m sorry…
 
-Mrs. Katz: that’s alright, Ms. Glau.
+Mrs. Katz: That’s alright, Ms. Glau.
 
 [A young boy’s voice from outside the frame.]
 
-Peter: hey grandma, you won’t believe how I schooled Rob in basketball
+Peter: Hey grandma, you won’t believe how I schooled Rob in basketball
 today.
 
 [Peter enters.]
@@ -1007,18 +1007,20 @@ SGlau: Nice to meet you, Peter.
 +++: I would love to hang around here some more, but I need to go. My business
 for today is not finished.
 
-Peter: byeeeeee, Ms. Glau. [He giggles]
+Peter: Byeeeeee, Ms. Glau. [He giggles]
 
-Mrs. Katz: farewell.
+Mrs. Katz: Farewell.
 
-Dr. Feldman: farewell, Ms. Glau, and thanks for everything.
+Dr. Feldman: Farewell, Ms. Glau, and thanks for everything.
 
-SGlau: farewell all. [To Peter] Keep schooling others at basketball -
+SGlau: Farewell all. [To Peter] Keep schooling others at basketball -
 that's the only way for them to learn.
 
-Peter: heh, thank you, Ma’am. Rob is getting better, actually.
+Peter: Heh, thank you, Ma’am. Rob is getting better, actually.
 
-SGlau: That’s great. [She leaves.]
+SGlau: That’s great.
+
+[SGlau leaves.]
 
 [Cut.]
 
