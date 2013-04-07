@@ -1046,8 +1046,8 @@ SGlau: Hi, Richard. I’m back.
 
 Richard: Oh, hi, Summer. Is there anything I can do for you?
 
-SGlau: As a matter of fact - you can. Can you gather the folks here, or a
-large part of them anyway to the conference room? I’d like to give a talk.
+SGlau: As a matter of fact - yes. Can you gather the folks here, or
+some of them, to the conference room? I’d like to give a talk.
 
 Richard: Hmmm… we are supposed to be working.
 
@@ -1079,6 +1079,53 @@ a talk - Ms. Summer Glau, the Hollywood television actress.
 
 [Some grumbling from the crowd, due to surprise, along with some
 unenthusiastic applause.]
+
+SGlau: Thank you, Richard. OK, my talk today will be about lots of random
+stuff, but it should be a fun talk and you’ll see its theme soon enough.
+
++++: Let’s start:… [The screen shows a photo of David and Goliath.]
+
++++: yes, David and Goliath.
+
++++: The Israelites and the Philistines schedule a large battle. The
+philistines have far superior equipment with armours made out of cast iron,
+which the Israelites don't have. Eventually, Goliath, a tall Philistine giant,
+steps forward and asks for an Israelite man worthy enough to fight him and
+determine the fate of the battle (something which was quite common in the
+ancient Near East). The Israelites seem like they will lose the battle.
+
++++: Out of nowhere, a young Israelite boy whom hardly anyone knew about steps
+forward with a sling and a few pebbles. Goliath thinks this is ridiculous and
+ridicules him. However, the boy quickly puts a pebble in his sling, and after
+rotating the sling to achieve a very large velocity (not unusual with slings)
+hurls it with great accuracy (also not unusual, because shepherds in the Near
+East effectively used slings to kill lions and other predators to their flock)
+into Goliath's face, which was uncovered to allow him to see. Even if Goliath's
+shield bearer wanted, he could not have lifted the huge shield in time, and
+Goliath was completely not agile in his suit and armour. The sling's rock
+smashes Goliath brain, and he falls to the ground dead. The Israelites have
+won the battle.
+
++++: That Boy's name was David.
+
++++: Why is it important here? Because David was a “hacker”, and I realise
+that this word possibly triggers a lot of fear here. Why was he a hacker?
+Because he knew the rules, and played by them, but knew how to bend them, in
+order to earn his victory. Hackers bend the rules.
+
++++: And here’s the thing: this is what an action hero is all about: he makes
+his own rules, even break them, and does not accept his fate. This is whereas
+a tragic hero is bound by many invisible rules, and accepts his fate, which
+is, almost certainly - death.
+
++++: And in real life, you should also aim to be a hacker or action hero
+or the many phrases it was called.
+
+[There's some enthusiastic hand clapping from the audience.]
+
+SGlau: Thank you. OK, let’s move on.
+
+[Fade to black. Cut. Fade in.]
 
 <!-- / summer_glau_presents__the_talk -->
 
