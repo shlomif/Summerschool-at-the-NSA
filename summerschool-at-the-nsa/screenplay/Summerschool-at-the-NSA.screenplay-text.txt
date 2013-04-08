@@ -8,13 +8,13 @@ is original artwork.]
 
 [Mr. Fish would like to apologise to the real-life and living
 <a href="http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar">Ms.
-Sarah Michelle Gellar</a> (abbreviated as SMG) and to
-<a href="http://en.wikipedia.org/wiki/Summer_Glau">Ms. Summer Glau</a>
-(abbreviated as SGlau), who are featured in this story as themselves, if he
-has misrepesented them.]
+Sarah Michelle Gellar</a>  and to
+<a href="http://en.wikipedia.org/wiki/Summer_Glau">Ms. Summer Glau</a>, who
+are featured in this story as themselves, if he has misrepesented them.]
 
-[Abstract: Sarah Michelle Gellar (of Buffy fame) and Summer Glau (of
-<a href="http://en.wikipedia.org/wiki/Xkcd">xkcd</a> notability) conspire
+[Abstract: Sarah Michelle Gellar (of Buffy fame - abbreviated as “SMG”) and
+Summer Glau (of <a href="http://en.wikipedia.org/wiki/Xkcd">xkcd</a>
+notability, abbreviated as “SGLau”) conspire
 to kick the ass of the
 <a href="https://en.wikipedia.org/wiki/National_Security_Agency">NSA</a>
 (= the United States government’s National Security Agency),
@@ -42,9 +42,9 @@ SGlau: [Stops laughing.] Oh my God, Sarah, your daughter’s so smart.
 
 SMG: And… funny!
 
-SGlau: Yes. Well, what does she like aside from Mother Goose?
+SGlau: Yes. Well, what does she like aside from <a href="http://en.wikipedia.org/wiki/Mother_Goose">Mother Goose</a>?
 
-SMG: Oh, she loves <i>My Little Pony</i>. She and I watch it almost every week
+SMG: Oh, she loves <a href="http://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic"><i>My Little Pony</i></a>. She and I watch it almost every week
 together.
 
 SGlau: Wow, you're a pega-sister, too?
@@ -75,9 +75,11 @@ SGlau: Sounds really crazy, Sarah. Are you sure you're OK?
 SMG: No, I’m not. My secret for success was that I was never completely sane,
 heh.
 
-SGlau: [Uses her smartphone] Hmmm… I see DuckDuckGo
+SGlau: [Uses her smartphone] Hmmm… I see
+<a href="http://duckduckgo.com/">DuckDuckGo</a>
 has some hits for “Summerschool at the NSA” and your name, hmm... and some
-NSA factoids. Hah! “The NSA does not publish, they perish”, “The NSA knows
+<a href="http://www.shlomifish.org/humour/bits/facts/NSA/">NSA factoids</a>.
+Hah! “The NSA does not publish, they perish”, “The NSA knows
 what you did last summer, but no one, inside the NSA or outside it, knows why
 they should”.
 
@@ -105,10 +107,11 @@ Buffy the vampire slayer, murdered in cold blood by child daughter.”
 
 SMG: [Giggles] Indeed, the apple did not fall too far from the tree.
 
-SGlau: The apple completely supplanted the tree. The Golem has risen upon its
+SGlau: The apple completely supplanted the tree. The
+<a href="http://en.wikipedia.org/wiki/Golem">Golem</a> has risen upon its
 master.
 
-SMG: [Thoughtfully] yes.
+SMG: [Thoughtfully] Yes.
 
 SGlau: Well, I don’t suppose she will murder you literally. You know,
 <a href="http://xkcd.com/725/">xkcd number 725</a>.
@@ -173,11 +176,11 @@ SGlau: I guess, unless you want me to get rid of the NSA now, by orders from
 the Messiah, which is none other than Sarah Michelle Gellar.
 
 SMG: We’ve got a lot of time for that. OK: it was 1997-1998ish, Buffy started
-airing and became a cult series. So, one day a group of yeshivah pupils
+airing and became a cult series. So, one day a group of <a href="http://en.wikipedia.org/wiki/Yeshiva">yeshivah</a> pupils
 from a local <a href="https://en.wikipedia.org/wiki/Chabad">Chabad</a>
 yeshivah arrived to the studios saying they have some
 numereological insights from the Jewish bible, about what will happen in
-Sunnydale next.
+<a href="http://en.wikipedia.org/wiki/Sunnydale">Sunnydale</a> next.
 
 [SGlau burst out laughing.]
 
@@ -263,8 +266,8 @@ SGlau: Good morning, gentlemen.
 
 Andrew: Good morning, ma’am! What is your business here?
 
-SGlau: I am Summer Glau’s terminator from <i>The Sarah Connor
-Chronicles</i>. I would like to get clearance for entering these premises.
+SGlau: I am Summer Glau’s terminator from <a href="http://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles"><i>The Sarah Connor
+Chronicles</i></a>. I would like to get clearance for entering these premises.
 
 Daniel: What? A terminator? Ma’am, are you crazy?
 
@@ -324,7 +327,7 @@ Andrew: It sucks.
 
 Daniel: Yes, it sucks.
 
-SGlau: Ninety-nine problems, eh?
+SGlau: <a href="http://en.wikipedia.org/wiki/99_Problems">Ninety-nine problems</a>, eh?
 
 Daniel: And a Bitch ain’t one? yes!
 
@@ -378,7 +381,7 @@ Daniel: Anyway, talking about all that is a bit depressing. Ms. Glau, your
 life should be happier than ours, can you tell us about it?
 
 SGlau: Yes, well. After <i>The Sarah Connor Chronicles</i> got cancelled, I’ve
-been mostly out of acting roles, but I’m still hanging out there, not
+been mostly out of major acting roles, but I’m still hanging out there, not
 despairing, and keeping myself busy. California is great for that.
 
 Daniel: So, being the terminator was your greatest role?
@@ -430,7 +433,7 @@ Andrew: Heh, Atlas Shruggeded. Well played, Ma’am.
 
 Daniel: OK, is a clearance all you need?
 
-SGlau: For now. [she smiles.]
+SGlau: For now. [She smiles.]
 
 Andrew: Well, you won't be able to take your gun with you, even if it's a
 toy gun without ammunition.
@@ -473,7 +476,7 @@ follow us.
 
 SGlau, Andrew, and Daniel enter.]
 
-SGlau: Oh my God! I can’t believe, it is finally over. That was <b>so</b>
+SGlau: Oh my God! I can’t believe it is finally over. That was <b>so</b>
 vexing.
 
 Andrew: But it’s over - you’ve got clearance now.
