@@ -616,7 +616,7 @@ Daniel: Hey! How about one of us escorting you?
 
 Andrew: Yeah, but who?
 
-Daniel: How about you this time?
+Daniel: Andrew, how about you this time?
 
 Andrew: Heh — sure! If only to make my girlfriend jealous.
 
@@ -644,8 +644,10 @@ SGlau: Yeah.
 
 Andrew: Sure.
 
-SGlau: So they hold a contest to see which intelligence agency can find a
-rabbit in a forest as quickly as possible.
+SGlau: All right!
+
++++: So they hold a contest to see which intelligence agency can
+find a rabbit in a forest as quickly as possible.
 
 +++: First, it’s the CIA’s turn. Using cutting edge satellite technology, deep
 electronic scans, and other high-tech equipment, they are able to locate the
@@ -679,8 +681,8 @@ Andrew: OK, here we are.
 
 <s id="getting_inside__inner_fence_crossing" title="Inner Fence Crossing">
 
-[SGlau and Daniel approach the inner fence crossing. There’s a white guard
-(George) and a ferocious dog chained nearby.
+[SGlau and Daniel approach the inner fence crossing. There’s a Caucasian
+guard (George) and a ferocious dog chained nearby.
 
 The dog starts barking at SGlau and Daniel.]
 
@@ -719,7 +721,7 @@ George: How? Magic?
 
 Andrew: Kinda. See, we wanted her in because she has plans to kick some
 serious butt in this place, and the amazing thing is - it’s all going to
-be non-violently and people will end up happier.
+be done non-violently, and people will end up happier.
 
 George: Off the record - this place could use its butt kicked, but man, they
 will end up kicking my butt, too, man, if they knew I let her in.
@@ -802,12 +804,12 @@ Richard: Heh, like in xkcd?
 
 SGlau: The very one!
 
-Richard: Unbelieable. I thought there was no way an Hollywood actor could
+Richard: Unbelievable. I thought there was no way an Hollywood actor could
 ever get a clearance to enter this place.
 
 SGlau: Why not?
 
-Richard: Don’t know… they are too famous, and so too dangerous for us.
+Richard: Don’t know… they are too famous, and also too dangerous for us.
 
 SGlau: Well, I am dangerous - I have my powers and this is how I got
 clearance.
@@ -990,13 +992,13 @@ Dr. Feldman: Thank you. [He rises up and hugs SGlau and then starts crying.]
 
 [Cut to SGlau. She has tears in her eyes. They stop hugging. ]
 
-SGlau: [crying] I’m sorry… I’m sorry…
+SGlau: [Crying] I’m sorry… I’m sorry…
 
 Mrs. Katz: That’s alright, Ms. Glau.
 
 [A young boy’s voice from outside the frame.]
 
-Peter: Hey grandma, you won’t believe how I schooled Rob in basketball
+Peter: Hey grandma, you won’t believe how I schooled Rob in Basketball
 today.
 
 [Peter enters.]
@@ -1008,7 +1010,7 @@ of ours, Ms. Glau.
 
 Peter: Nice to meet you, Ms. Glau.
 
-SGlau: Nice to meet you, Peter.
+SGlau: Nice to meet you too, Peter.
 
 +++: I would love to hang around here some more, but I need to go. My business
 for today is not finished.
@@ -1091,31 +1093,31 @@ stuff, but it should be a fun talk and you’ll see its theme soon enough.
 
 +++: Let’s start:… [The screen shows a photo of David and Goliath.]
 
-+++: yes, David and Goliath.
++++: yes, <a href="http://en.wikipedia.org/wiki/Goliath">David and Goliath</a>.
 
 +++: The Israelites and the Philistines schedule a large battle. The
 philistines have far superior equipment with armours made out of cast iron,
 which the Israelites don't have. Eventually, Goliath, a tall Philistine giant,
 steps forward and asks for an Israelite man worthy enough to fight him and
 determine the fate of the battle (something which was quite common in the
-ancient Near East). The Israelites seem like they will lose the battle.
+ancient Near East). It seems the Israelites will lose the battle.
 
 +++: Out of nowhere, a young Israelite boy whom hardly anyone knew about steps
 forward with a sling and a few pebbles. Goliath thinks this is ridiculous and
 ridicules him. However, the boy quickly puts a pebble in his sling, and after
 rotating the sling to achieve a very large velocity (not unusual with slings)
-hurls it with great accuracy (also not unusual, because shepherds in the Near
-East effectively used slings to kill lions and other predators to their flock)
-into Goliath's face, which was uncovered to allow him to see. Even if Goliath's
-shield bearer wanted, he could not have lifted the huge shield in time, and
-Goliath was completely not agile in his suit and armour. The sling's rock
-smashes Goliath brain, and he falls to the ground dead. The Israelites have
-won the battle.
+hurls the pebble with great accuracy (also not unthinkable, because shepherds
+in the Near East effectively used slings to kill lions and other predators to
+their flock) into Goliath's face, which was uncovered to allow him to see. Even
+if Goliath's shield bearer wanted to, he could not lift the huge shield in
+time, and Goliath was completely not agile in his suit and armour. The sling's
+rock smashes Goliath brain, and he falls to the ground dead. The Israelites
+have won the battle.
 
 +++: That Boy's name was David.
 
 +++: Why is it important here? Because David was a “hacker”, and I realise
-that this word possibly triggers a lot of fear here. Why was he a hacker?
+that that term possibly triggers a lot of fear here. Why was he a hacker?
 Because he knew the rules, and played by them, but knew how to bend them, in
 order to earn his victory. Hackers bend the rules.
 
@@ -1125,7 +1127,7 @@ a tragic hero is bound by many invisible rules, and accepts his fate, which
 is, almost certainly - death.
 
 +++: And in real life, you should also aim to be a hacker or action hero
-or the many phrases it was called.
+or the many phrases it used to be called.
 
 [There's some enthusiastic hand clapping from the audience.]
 
@@ -1139,7 +1141,7 @@ with a gun in each hand</a>, and I
 actually trained myself to shoot using two guns simultaneously.
 
 +++: Part of the process was learning to shoot using my left hand, and then
-combining them. It was time consuming but doable.
+combining them. It was time consuming, but doable.
 
 +++: Whatever you do, you should realise to never shoot while you’re running.
 You only see it in movies, but in real life, it’s a spectacularly bad idea.
@@ -1150,19 +1152,20 @@ SGlau: In <a href="http://en.wikipedia.org/wiki/The_Three_Musketeers">The
 Three Musketeers</a>, Dumas tells the story of how d’Artagnan who is a young
 swordsman without much of an official training, from a remote region of France,
 eventually becomes the best fighter in France. This is despite the fact that
-his peers, Athos, Porthos, and Aramis have much more experience and training.
+his peers, Athos, Porthos, and Aramis, have much more experience and training.
 
 +++: It may seem farfetched, but before the industrialisation of the far east,
-and the way it interpreted martial arts with the coloured belts and all, there
-were regional masters of these arts, who practised them as much as they could
-and honed their skills. However, despite all that, they never ruled out that
-they would one day fight against someone who never faught before, and lose.
+and the way the West interpreted martial arts with the coloured belts and
+all, there were regional masters of these arts, who practised them as much as
+they could and honed their skills. However, despite all that, they never ruled
+out that they would one day fight against someone who never faught before,
+and lose.
 
 +++: I can attest to it from my experience. I have been training in martial
 arts for years, and part of what I do is instruct kids in the martial arts.
 A lot of them seem happy to get a chance to fight against someone famous like
-me, and doing that in Southern California like that is good for the ego - and
-it’s also good publicity. [The Audience laughs.]
+me, and doing that in Southern California like that is good for the ego.
+<b>And:</b> it’s also good publicity. [The Audience laughs.]
 
 +++: Now, most kids just want to learn the moves and fight in the proper way,
 but there's a minority of disobedient kids: they disrespect the rules,
@@ -1209,7 +1212,8 @@ I’m a Hollywood actress.
 
 General Alexander: You expect me to wikipedia you? That’s so unprofessional.
 
-SGlau: Well, like I told her in my talk, Amateurs can be better than the pros.
+SGlau: Well, like I told the people here in my talk, Amateurs can often
+be better  than the pros.
 
 General Alexander: OK, in any case, given that we do not allow anyone as famous
 and as hungry of publicity as a Hollywood actor here in the NSA, please leave
@@ -1250,7 +1254,7 @@ General Alexander: If you say so.
 
 SGlau: I was not the architect of me coming here. It was initiated by two
 people: the first is the invisible - he’s a mystery man, and I am not going
-to tell you who it is.
+to tell you who he is.
 
 +++: The second architect of this operation (which turned out to be very
 successful) is this: [slowly and clearly] Ms. Sarah Michelle Gellar. Yes,
@@ -1291,9 +1295,9 @@ as
 <a href="http://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer"><i>I
 Know What You Did Last Summer</i></a> and
 <a href="http://en.wikipedia.org/wiki/Scream_2"><i>Scream 2</i></a>, which
-were cheesy and not too scary.
+were cheesy thrillers, and not too scary ones.
 
-+++: Anyway, we invited several young people for internship during then,
++++: Anyway, we invited several young people for intern-ship during then,
 and due to the conditions here, it became a meme among them that “If
 <i>Summerschool at the NSA</i> will be Sarah Michelle Gellar’s next film, it
 will be scary.”, and most interns left citing this. The years passed, Buffy
@@ -1346,11 +1350,11 @@ or an action heroine than what you see in films and on television. The
 “into the maelstorm” action there is good for business and for captivating
 audiences, but not something a really good warrior will ever do. The first
 think they tell us in self-defence classes is to always avoid a battle, because
-it is better to be poorer, or looked down upon, or saddened, or depressed,
+it is better to be poorer, or ridiculed, or saddened, or depressed,
 than it is to be dead or injured.
 
 +++: Saladin took a huge risk in liberating Palestine from Christian rule,
-but it had to be done, and he did it by being fare, and chivalrous and
+but it had to be done, and he did it by being fair, and chivalrous and
 forgiving, and became an instant hero and a model for emulation for centuries.
 
 +++: Similarly, I took a huge risk by going in here, because it had to be
@@ -1367,7 +1371,7 @@ General Alexander: Fighting? How?
 SGlau: General, are you married?
 
 General Alexander: Yes, I still am. It’s been a long while since I spent a
-lot of time with her. She’s been E-mailing me a lot of stuff she found on
+lot of time with my wife. She’s been E-mailing me a lot of stuff she found on
 Television and the Internet, and I didn’t have time to read, view or
 hear it all - I just replied to it laconically. I cannot believe how selfish
 I was.
@@ -1375,7 +1379,7 @@ I was.
 SGlau: Yes, do you still love her?
 
 General Alexander: Oh, Ms. Glau! I do, but I wouldn’t blame her if she
-divorces me tomorrow - it may actually may make her happier.
+divorces me tomorrow - it may actually make her happier.
 
 SGlau: OK, what do you say about preventing that? Maybe you and I shall
 take her on a date?
@@ -1388,7 +1392,7 @@ the president.
 
 General Alexander: The Messiah? Who is he?
 
-SGlau: I am. And you can be them too.
+SGlau: I am. And you can be him too.
 
 General Alexander: Sounds crazy.
 
@@ -1418,7 +1422,7 @@ colours.
 [The crowd starts clapping for a standing ovation, and some people start
 whistling.]
 
-SGlau: Thank you. [She bows and goes to close the camera and takes it.]
+SGlau: Thank you. [She bows and goes to close the camera.]
 
 [On the camera screen:]
 
