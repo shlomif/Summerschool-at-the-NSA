@@ -1,5 +1,25 @@
-SPEC / Plan for the rest of the screenplay:
-===========================================
+NOTE:
+=====
+
+All the ideas in this document were already integrated into the main plot
+of the screenplay, which is complete. Therefore, there is probably nothing
+to see here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OLD SPEC / Plan for the rest of the screenplay:
+===============================================
 
 * SGlau and Daniel return from their date.
 
