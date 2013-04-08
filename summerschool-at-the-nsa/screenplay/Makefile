@@ -25,7 +25,9 @@ DOCBOOK5_XSL_CUSTOM_FO_XSLT_STYLESHEET := $(HOMEPAGE)/lib/sgml/shlomif-docbook/x
 
 SELINA_UPLOAD_TEMP_DEST = temp-summerschool-at-the-nsa
 
-all: $(DOCS_SCREENPLAY_XHTML) $(ENG_EPUB) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
+ENG_EPUB = $(NAME).epub
+
+all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
 upload:
 	rsync -v --progress -a $(FILES) $${__HOMEPAGE_REMOTE_PATH}/$(SELINA_UPLOAD_TEMP_DEST)/
@@ -76,6 +78,11 @@ openoffice: oohtml
 .PHONY: epub_ff
 
 epub: $(ENG_EPUB)
+
+EPUB_SCRIPT = scripts/prepare-epub.pl
+
+$(ENG_EPUB): $(DOCS_SCREENPLAY_XHTML) $(EPUB_SCRIPT)
+	perl $(EPUB_SCRIPT) --output $@ $(DOCS_SCREENPLAY_XHTML)
 
 epub_ff: epub
 	firefox $(ENG_EPUB)
