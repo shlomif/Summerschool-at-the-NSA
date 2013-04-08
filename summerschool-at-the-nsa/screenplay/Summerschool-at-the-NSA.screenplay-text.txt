@@ -2,7 +2,9 @@
 
 <s id="about" title="About this screenplay">
 
-[Note: This screenplay was written by <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and is original artwork.]
+[Note: This screenplay was written by
+<a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
+is original artwork.]
 
 [Mr. Fish would like to apologise to the real-life and living
 <a href="http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar">Ms.
