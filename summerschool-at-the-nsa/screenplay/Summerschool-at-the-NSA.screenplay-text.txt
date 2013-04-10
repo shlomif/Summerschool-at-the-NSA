@@ -12,7 +12,9 @@ Sarah Michelle Gellar</a>  and to
 <a href="http://en.wikipedia.org/wiki/Summer_Glau">Ms. Summer Glau</a>, who
 are featured in this story as themselves, if he has misrepesented them.]
 
-[Abstract: Sarah Michelle Gellar (of Buffy fame - abbreviated as “SMG”) and
+[Abstract: Sarah Michelle Gellar (of
+<a href="http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"><i>Buffy
+the Vampire Slayer</i></a> fame - abbreviated as “SMG”) and
 Summer Glau (of <a href="http://en.wikipedia.org/wiki/Xkcd">xkcd</a>
 notability, abbreviated as “SGLau”) conspire
 to kick the ass of the
@@ -23,9 +25,15 @@ while using special warfare that is completely non-violent.
 This is surrealistic realism and takes place in the spring-summer of 2013 -
 far-fetched, but could actually happen.]
 
-[For more information and anti-NSA activism by Shlomi Fish, see
+[For more information and anti-NSA activism by Shlomi Fish, visit his
 <a href="http://www.shlomifish.org/humour/bits/facts/NSA/">the
 NSA “facts” page</a> (a la Chuck Norris factoids).]
+
+[This text is Copyright by Shlomi Fish, 2013 and is
+made available under the
+<a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
+Attribution-Share Alike 3.0 Unported Licence (CC-by-sa)</a>
+(or at your option - any later version).]
 
 </s>
 
