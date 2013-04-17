@@ -1066,8 +1066,8 @@ SGlau: Hi, Richard. I’m back.
 
 Richard: Oh, hi, Summer. Is there anything I can do for you?
 
-SGlau: As a matter of fact - yes. Can you gather the folks here, or
-some of them, to the conference room? I’d like to give a talk.
+SGlau: As a matter of fact - yes. Can you gather the folks here, or at
+least some of them, to the conference room? I’d like to give a talk.
 
 Richard: Hmmm… we are supposed to be working.
 
@@ -1134,9 +1134,9 @@ Because he knew the rules, and played by them, but knew how to bend them, in
 order to earn his victory. Hackers bend the rules.
 
 +++: And here’s the thing: this is what an action hero is all about: he makes
-his own rules, even break them, and does not accept his fate. This is whereas
+his own rules, even breaks them, and does not accept his fate. This is whereas
 a tragic hero is bound by many invisible rules, and accepts his fate, which
-is, almost certainly - death.
+is, almost certainly, death.
 
 +++: And in real life, you should also aim to be a hacker or action hero
 or the many phrases it used to be called.
@@ -1166,7 +1166,7 @@ swordsman without much of an official training, from a remote region of France,
 eventually becomes the best fighter in France. This is despite the fact that
 his peers, Athos, Porthos, and Aramis, have much more experience and training.
 
-+++: It may seem farfetched, but before the industrialisation of the far east,
++++: It may seem farfetched, but before the industrialisation of the Far East,
 and the way the West interpreted martial arts with the coloured belts and
 all, there were regional masters of these arts, who practised them as much as
 they could and honed their skills. However, despite all that, they never ruled
@@ -1237,7 +1237,7 @@ General Alexander: I guess you can, but make it quick.
 
 SGlau: Fine. First of all, you must realise that the NSA is now in deep
 trouble. A top-secret and supposedly ultra-secure organisation with a budget
-in the 100s of millions of dollars, and yet me, a young and pretty girl,
+in the 100s of millions of dollars, and yet me, a young and pretty woman,
 whose budget for this operation has yet to exceed a million dollars, was able
 to infiltrate this camp and take video footage which I have broadcasted
 on the Internet. Can you imagine the fiasco that the media will do over that?
@@ -1288,7 +1288,7 @@ SGlau: OK, bring handkerchiefs and some water - quick!
 
 [Cut.]
 
-<!-- nsa_director__making_acquaintance -->
+<!-- / nsa_director__making_acquaintance -->
 
 </s>
 
