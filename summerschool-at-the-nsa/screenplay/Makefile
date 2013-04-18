@@ -39,6 +39,7 @@ $(DOCS_SCREENPLAY_XML): %.screenplay-xml.xml: %.screenplay-text.txt
 $(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.screenplay-xml.xml
 	perl -MXML::Grammar::Screenplay::App::ToHTML -e 'run()' -- \
 		-o $@ $<
+	perl -i -lap -e 's/ +$$//' $@
 
 $(DOCS_SCREENPLAY_XHTML_AS_HTML): $(DOCS_SCREENPLAY_XHTML)
 	cp -f $< $@
