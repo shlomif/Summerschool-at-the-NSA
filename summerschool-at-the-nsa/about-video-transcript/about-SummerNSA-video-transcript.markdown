@@ -132,3 +132,11 @@ theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
 
 The screenplay was not produced into a film yet, but I am hopeful it will be
 soon, and part of the motivation for this video is to publicise it.
+
+The NSA is an organisation full of unhappy people who are afraid of their own
+shadow, incompetent and evil ones, which contributes **nothing** to the
+well-being of Americans and the world at large, yet keep claiming the opposite
+is the fact. While it taps to many unencrypted messages on the Internet, in
+a vein and unfounded hope that it can reach genuine understanding, and spends
+a lot of money on storage and computers, it is completely non-transparent
+and won't publish anything of its conclusions. 
