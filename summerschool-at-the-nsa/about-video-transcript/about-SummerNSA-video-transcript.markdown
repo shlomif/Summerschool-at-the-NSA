@@ -128,4 +128,7 @@ Does the NSA actually stand a chance?
 »»
 
 While it is highly fictional it does illustrate a point and consists of the
-theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html )
+theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ). 
+
+The screenplay was not produced into a film yet, but I am hopeful it will be
+soon, and part of the motivation for this video is to publicise it.
