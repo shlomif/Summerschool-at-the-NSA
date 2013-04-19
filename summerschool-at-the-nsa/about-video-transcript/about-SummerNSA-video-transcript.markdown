@@ -53,9 +53,11 @@ http://www.shlomifish.org/humour/fortunes/show.cgi?id=kilmo-about-the-NSA
 where he said:
 
 ««
+
 Why would you like to make fun of the crypto world ? ;) The NSA
 does know what you did last summer. And by putting this on the web, they
 know that you know. Which may lead to interesting philosophical issues.
+
 »»
 
 I noted down the quote and let it rest for a long while until following some
@@ -67,6 +69,7 @@ http://www.shlomifish.org/humour/bits/facts/NSA/
 Some sample ones are:
 
 ««
+
 * The NSA don’t publish. They perish. 
 
 * The Bajoran scholars have positively identified
@@ -79,6 +82,7 @@ all of the test audience had uncontrollable panic attacks.
 
 * The NSA knows what you did last summer. But no one, in
 the NSA or outside it, knows why they should. 
+
 »»
 
 
