@@ -139,4 +139,10 @@ well-being of Americans and the world at large, yet keep claiming the opposite
 is the fact. While it taps to many unencrypted messages on the Internet, in
 a vein and unfounded hope that it can reach genuine understanding, and spends
 a lot of money on storage and computers, it is completely non-transparent
-and won't publish anything of its conclusions. 
+and won't publish anything of its conclusions.
+
+Whoever wishes to work for https://twitter.com/NSACareers must be in a state
+of sin, as no one in his right mind will want to work for them, so they get
+either the most irrational people, the most incompetent ones, or the most
+evil ones (or usually - all three).
+
