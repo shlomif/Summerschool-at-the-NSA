@@ -85,4 +85,47 @@ the NSA or outside it, knows why they should.
 
 »»
 
+And finally «First the NSA ignores “silly” Internet memes, 
+then they laugh at them, then they are unable to fight them,
+and then they lose.».
 
+As I became more and more obsessed with fighting the NSA, which is a
+huge sink of time and money in the United States government, and which
+doesn’t do any good due to their secretive and non-transparent nature,
+I came up with the next step which was this open letter:
+
+http://www.shlomifish.org/humour/bits/facts/NSA/smg-film/
+
+«Open Letter to Ms. Sarah Michelle Gellar: Production of the
+Documentary Film “Summerschool at the NSA”»
+
+While not a lot came out of it directly, and I didn’t hear from
+Ms. Gellar about it, it certainly got me thinking, and then as I
+attended the Olamot Sci-Fi Fantasy conference (see
+http://www.flickr.com/photos/shlomif/sets/72157633111982891/ ) which was
+incredibly stimulating, I realised I could make a lot of headway without
+needing Gellar’s cooperation and that I could write a fictional script
+of my own about her seriously kicking the ass of these NSA losers. Hence:
+
+Summerschool at the NSA - a Screenplay:
+http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+
+(Taglined: “As the sling shoots, grown men will cry”)
+
+Reading from the abstract:
+
+««
+
+The Hollywood actresses Sarah Michelle Gellar (of Buffy fame) and Summer Glau
+(of xkcd notability) conspire to kick the ass of the NSA (= the United States
+government’s National Security Agency), while using special warfare that i
+completely non-violent. Two attractive, intelligent, and resourceful women
+against a large, inefficient, federal government organisation whose estimated
+annual budget is several times their combined worth.
+
+Does the NSA actually stand a chance? 
+
+»»
+
+While it is highly fictional it does illustrate a point and consists of the
+theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html )
