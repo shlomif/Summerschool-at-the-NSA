@@ -1295,7 +1295,7 @@ SGlau: OK, bring handkerchiefs and some water - quick!
 <s id="nsa_director__tell_story" title="The NSA Director Tells His Story">
 
 [The screen fades in to reveal General Alexander and SGlau sitting on the
-floor in the hall. The General is calmer and stopped crying?.]
+floor in the hall. The General is calmer and stopped crying.]
 
 SGlau: So what can you tell me about Ms. Gellar? Why do you think she
 is Satan?
