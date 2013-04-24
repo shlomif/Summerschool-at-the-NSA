@@ -316,9 +316,9 @@ SGlau: Ms. Terminator, please. Let’s suppose I am really a terminator. Some
 kind of top-secret technology - who knows whose. Then if you shoot me, I won’t
 be really hurt, and will proceed to kick your ass.
 
-+++: On the other hand, if I am actually Summer Glau who has become a little
-cuckoo, then if you shoot me, and I get killed, then you can imagine the fiasco
-that that will cause when people learn I was killed.
++++: On the other hand, if I am actually Summer Glau who has gone a little
+cuckoo, then if you shoot me, and I get killed, then you can imagine the
+fiasco that that will cause when people learn I was killed.
 
 Andrew: Oh, man!
 
@@ -484,7 +484,7 @@ follow us.
 
 <s id="getting_clearance__after_getting_the_clearance" title="After Getting the Clearance">
 
-[Same room as before. Message on the screen: “Three hours later”.
+[Same room as before. Message on the screen: “Two hours later”.
 
 SGlau, Andrew, and Daniel enter.]
 
@@ -632,7 +632,7 @@ Daniel: Andrew, how about you this time?
 
 Andrew: Heh — sure! If only to make my girlfriend jealous.
 
-SGlau: And more bitchy.
+SGlau: And more bitchy!
 
 Andrew: Yeah, well, Daniel, stay here while I escort Ms. Glau.
 
@@ -746,7 +746,7 @@ George: Probably not.
 
 [SGlau hands it in.]
 
-George: Looks fine. [Calling the guarding station.] Hi, did you let
+George: Looks fine. [Calling the guarding station.] Hi, did you give
 Summer Glau, SSN #1234567890 clearance?… Affirmative… Affirmative…
 Fair enough. OK.
 
@@ -802,7 +802,7 @@ Richard: Wow, OK. If you say so.
 SGlau: Yeah. [She blushes.]
 
 Richard: OK, let me show the office of Dr. Feldman who drew all these walls.
-He’s been drawing a lot on canvases and papers too.
+He’s been drawing a lot on canvases and on paper too.
 
 [Richard gets up and escorts SGlau.]
 
@@ -858,9 +858,9 @@ Dr. Feldman: [From behind the door.] Enter.
 
 <s id="dr_feldman__in_dr_feldmans_office" title="In Dr. Feldman’s Office">
 
-[SGlau opens the door into Dr. Feldman’s office. She sees many paintings around
-on papers and canvases. Dr. Feldman is busy painting a new painting. There is
-a computer with many books and papers lying around the office.]
+[SGlau opens the door into Dr. David Feldman’s office. She sees many paintings
+around on papers and canvases. Dr. Feldman is busy painting a new painting.
+There is a computer with many books and papers lying around the office.]
 
 SGlau: Hi, Dr. Feldman. I saw your paintings in the hall. They are beautiful.
 
@@ -1136,7 +1136,7 @@ order to earn his victory. Hackers bend the rules.
 +++: And here’s the thing: this is what an action hero is all about: he makes
 his own rules, even breaks them, and does not accept his fate. This is whereas
 a tragic hero is bound by many invisible rules, and accepts his fate, which
-is, almost certainly, death.
+is — almost certainly — death.
 
 +++: And in real life, you should also aim to be a hacker, or an action hero,
 or the many phrases it used to be called.
@@ -1215,7 +1215,7 @@ a report with all the possible intel about her on my desk in an hour. You got
 that?!
 
 [SGlau sighs and taps a few keys on the tablet. Eventually the
-screen shows some tabs including
+projected screen shows some tabs including
 <a href="http://en.wikipedia.org/wiki/Summer_Glau">her Wikipedia page</a>,
 some fan sites and the xkcd references.]
 
@@ -1225,7 +1225,7 @@ I’m a Hollywood actress.
 General Alexander: You expect me to wikipedia you? That’s so unprofessional.
 
 SGlau: Well, like I told the people here in my talk, Amateurs can often
-be better  than the pros.
+be better than the pros.
 
 General Alexander: OK, in any case, given that we do not allow anyone as famous
 and as hungry of publicity as a Hollywood actor here in the NSA, please leave
@@ -1309,12 +1309,13 @@ Know What You Did Last Summer</i></a> and
 <a href="http://en.wikipedia.org/wiki/Scream_2"><i>Scream 2</i></a>, which
 were cheesy thrillers, and not too scary ones.
 
-+++: Anyway, we invited several young people for intern-ship during then,
++++: Anyway, we invited several young people for internships during then,
 and due to the conditions here, it became a meme among them that “If
 <i>Summerschool at the NSA</i> will be Sarah Michelle Gellar’s next film, it
-will be scary.”, and most interns left citing this. The years passed, Buffy
-remained popular, Gellar moved on to more acclaimed films, but it continued
-to haunt us.
+will be scary.”, or “<i>Summerschool at the NSA</i> may might as well
+be Sarah Michelle Gellar’s next movie”, and most interns left citing this. The
+years passed, Buffy remained popular, Gellar moved on to more acclaimed films,
+but it continued to haunt us.
 
 SGlau: I see.
 
@@ -1376,7 +1377,7 @@ risk as possible, in a truly heroic fashion.
 
 General Alexander: Yes, Ms. Glau.
 
-SGlau: Now, what do you say of us fighting a little for your sake?
+SGlau: Now, what do you say of us fighting a little for your own sake?
 
 General Alexander: Fighting? How?
 
