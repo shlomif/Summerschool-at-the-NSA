@@ -6,7 +6,7 @@ here:
 
 http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 
-I first learned of the NSA in the film Sneakers ( 
+I first learned of the NSA in the film Sneakers (
 http://en.wikipedia.org/wiki/Sneakers_%281992_film%29 ), which I watched in
 high school and enjoyed, where the NSA plays an unflattering role.
 
@@ -49,7 +49,7 @@ them, and in general - as part of my therapy.
 
 Anyway, many years later I showed the original joke to my friend “kilmo” who
 is a cryptologist and he commented as
-http://www.shlomifish.org/humour/fortunes/show.cgi?id=kilmo-about-the-NSA 
+http://www.shlomifish.org/humour/fortunes/show.cgi?id=kilmo-about-the-NSA
 where he said:
 
 ««
@@ -70,22 +70,22 @@ Some sample ones are:
 
 ««
 
-* The NSA don’t publish. They perish. 
+* The NSA don’t publish. They perish.
 
 * The Bajoran scholars have positively identified
 Benjamin Sisko as The Emissary. They also positively
-identified the NSA headquarters as The Dungeon. 
+identified the NSA headquarters as The Dungeon.
 
-* One of Buffy the Vampire Slayer’s episodes took place 
+* One of Buffy the Vampire Slayer’s episodes took place
 in the NSA headquarters, but had to be destroyed, because
-all of the test audience had uncontrollable panic attacks. 
+all of the test audience had uncontrollable panic attacks.
 
 * The NSA knows what you did last summer. But no one, in
-the NSA or outside it, knows why they should. 
+the NSA or outside it, knows why they should.
 
 »»
 
-And finally «First the NSA ignores “silly” Internet memes, 
+And finally «First the NSA ignores “silly” Internet memes,
 then they laugh at them, then they are unable to fight them,
 and then they lose.».
 
@@ -123,12 +123,12 @@ completely non-violent. Two attractive, intelligent, and resourceful women
 against a large, inefficient, federal government organisation whose estimated
 annual budget is several times their combined worth.
 
-Does the NSA actually stand a chance? 
+Does the NSA actually stand a chance?
 
 »»
 
 While it is highly fictional it does illustrate a point and consists of the
-theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ). 
+theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
 
 The screenplay was not produced into a film yet, but I am hopeful it will be
 soon, and part of the motivation for this video is to publicise it.
@@ -146,3 +146,4 @@ of sin, as no one in his right mind will want to work for them, so they get
 either the most irrational people, the most incompetent ones, or the most
 evil ones (or usually - all three).
 
+# vim: set ft=txt:
