@@ -9,7 +9,7 @@ use XML::LibXML;
 use XML::LibXML::XPathContext;
 
 use CGI qw(escapeHTML);
-use JSON qw(encode_json);
+use JSON::MaybeXS qw(encode_json);
 
 use Getopt::Long qw(GetOptions);
 
