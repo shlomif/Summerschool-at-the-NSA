@@ -35,8 +35,8 @@ NSA “facts” page</a> (a la Chuck Norris factoids).]
 
 [This text is Copyright by Shlomi Fish, 2013 and is
 made available under the
-<a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
-Attribution-Share Alike 3.0 Unported Licence (CC-by-sa)</a>
+<a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons
+Attribution 3.0 Unported Licence (CC-by)</a>
 (or at your option - any later version).]
 
 </s>
