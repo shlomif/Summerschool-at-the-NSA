@@ -266,6 +266,8 @@ SGlau: [grabs a cookie] I’m listening!
 
 [Captions: “Two days later: The NSA Headquarters near Fort Meade, Maryland”.
 
+Music: <a href="https://www.youtube.com/watch?v=nmy113gMds0">Hugo:
+“99 Problems”</a>
 The screen fades in to show a parking lot, a car arrives and gets parked in
 a vacant spot. SGlau wearing warm clothes, and sunglasses gets out of the
 driver’s seat, she rubs her palms against the upper part of her hands.]
@@ -1453,6 +1455,10 @@ SGlau: Mission accomplished. So long and thanks for all the fish.
 [SGlau closes the camera. Cut.
 
 END.
+
+End music: <a href="https://www.youtube.com/watch?v=10PBekTNXoo">Caitlin
+Hart: “7 Minutes”</a>.
+
 ]
 
 <!-- / nsa_director__tell_story -->
