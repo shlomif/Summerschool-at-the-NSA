@@ -36,33 +36,8 @@ may might as well be the name of Sarah Michelle Gellar’s next movie.
 To which he replied: «And as opposed to I Know What You Did Last Summer,
 it is going to be scary.»
 
-This quote together with some other influences, such as the fact that I worked
-on a Friends/Fountainhead crossover at http://www.shlomifish.org/humour/TOWTF/
-triggered a long period of http://en.wikipedia.org/wiki/Mania which made me
-do some really crazy things, and also made the name “Sarah Michelle Gellar”
-trigger some unfortunate feelings for a long time.
-
-In any case, after I mostly recovered from the mania, I continued to write
-stories and screenplays as part of my creative process, and ended up reaching
-better conclusions about life, love, beauty, competence, and honesty through
-them, and in general - as part of my therapy.
-
-Anyway, many years later I showed the original joke to my friend “kilmo” who
-is a cryptologist and he commented as
-http://www.shlomifish.org/humour/fortunes/show.cgi?id=kilmo-about-the-NSA
-where he said:
-
-««
-
-Why would you like to make fun of the crypto world ? ;) The NSA
-does know what you did last summer. And by putting this on the web, they
-know that you know. Which may lead to interesting philosophical issues.
-
-»»
-
-I noted down the quote and let it rest for a long while until following some
-inspiration from the Chuck Norris factoids meme, I started to collect
-factoids deprecating the NSA:
+Many years later, following some inspiration from the Chuck Norris
+factoids meme, I started to collect factoids deprecating the NSA:
 
 http://www.shlomifish.org/humour/bits/facts/NSA/
 
@@ -118,7 +93,7 @@ Reading from the abstract:
 
 The Hollywood actresses Sarah Michelle Gellar (of Buffy fame) and Summer Glau
 (of xkcd notability) conspire to kick the ass of the NSA (= the United States
-government’s National Security Agency), while using special warfare that i
+government’s National Security Agency), while using special warfare that is
 completely non-violent. Two attractive, intelligent, and resourceful women
 against a large, inefficient, federal government organisation whose estimated
 annual budget is several times their combined worth.
@@ -127,11 +102,11 @@ Does the NSA actually stand a chance?
 
 »»
 
-While it is highly fictional it does illustrate a point and consists of the
+While it is highly fictional, it does illustrate a point and consists of the
 theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
 
-The screenplay was not produced into a film yet, but I am hopeful it will be
-soon, and part of the motivation for this video is to publicise it.
+That's where you come in: please read it, spread the word (use the "#SummerNSA" hash-tag), and try to work on creating videos out of it. For
+all I care, it can be an animation or played by look alikes.
 
 The NSA is an organisation full of unhappy people who are afraid of their own
 shadow, incompetent and evil ones, which contributes **nothing** to the
