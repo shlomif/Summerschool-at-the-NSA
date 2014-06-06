@@ -16,7 +16,7 @@ craze started, and everyone and their mother were looking for good tech workers.
 Moreover, shortly after that, the show Buffy the Vampire Slayer
 ( http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer ) started airing,
 and became a big hit,
-and many people became obsessd with it, and many Web 1.0 fan sites of the show,
+and many people became obsessed with it, and many Web 1.0 fan sites of the show,
 and its lead actress, http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar ,
 sprang like mushrooms after the rain.
 
