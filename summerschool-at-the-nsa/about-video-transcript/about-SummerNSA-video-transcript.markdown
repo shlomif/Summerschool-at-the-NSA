@@ -120,7 +120,7 @@ ergo - miserable - nature. And we shouldn't be paranoid about that - because
 a paranoid person is unhappy and therefore - insecure.
 
 The NSA is an organisation full of unhappy people who are afraid of their own
-shadow, incompetent and evil ones, which contributes **nothing** to the
+shadow, incompetent and evil ones. It contributes **nothing** to the
 well-being of Americans and the world at large, yet keep claiming the opposite
 is the fact. While it taps to many unencrypted messages on the Internet, in
 a vein and unfounded hope that it can reach genuine understanding, and spends
