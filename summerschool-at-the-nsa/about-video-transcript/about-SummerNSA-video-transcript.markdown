@@ -107,13 +107,17 @@ theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
 
 That's where you come in: please read it, spread the word (use the "#SummerNSA" hash-tag), and try to work on creating videos out of it. For
 all I care, it can be an animation or played by people resembling the
-fictionalised versions of the two protagonists.
+fictionalised versions of the two protagonists. Moreover, its Creative
+Commons CC-by licence allows close to any reuse, as long as I am given credit. 
+
+Let a thousand flowers bloom.
 
 A lot of people think the Snowden revelations are real, but I believe a
 large part of them are the products of minds with Manias, clinical
 depressions or schizophrenia attacks, all of which I believe are now the
 norm in the NSA, due to their secretive and paranoid, and
-ergo - miserable - nature.
+ergo - miserable - nature. And we shouldn't be paranoid about that - because
+a paranoid person is unhappy and therefore - insecure.
 
 The NSA is an organisation full of unhappy people who are afraid of their own
 shadow, incompetent and evil ones, which contributes **nothing** to the
