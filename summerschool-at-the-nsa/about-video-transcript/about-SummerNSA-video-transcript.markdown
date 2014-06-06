@@ -1,7 +1,7 @@
 Hi all,
 
-in this video, I will tell the story of how I came to write the
-screenplay “Summerschool at the NSA” which can be viewed online
+this video is a call for action about getting the screenplay
+“Summerschool at the NSA” produced and filmed. It can be viewed online
 here:
 
 http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
@@ -12,9 +12,10 @@ high school and enjoyed, where the NSA plays an unflattering role.
 
 Shortly after high school, I was employed at several workplaces and then
 during 1997 joined the Technion. 1996 was when the Internet and the Web 1.0
-craze started, and everone and their mother were looking for good tech workers.
-Moreover, shortly after that, the show Buffy, the Vampire Slayer
-( http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer ) and became a big hit,
+craze started, and everyone and their mother were looking for good tech workers.
+Moreover, shortly after that, the show Buffy the Vampire Slayer
+( http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer ) started airing,
+and became a big hit,
 and many people became obsessd with it, and many Web 1.0 fan sites of the show,
 and its lead actress, http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar ,
 sprang like mushrooms after the rain.
@@ -24,8 +25,7 @@ did Last Summer, and Scream 2, which were cheesy and not so scary horror films,
 which although successful, received negative critical reception.
 
 During the summer of 1998, I was discussing the shortage of capable technical
-workers in the software industry over E-mail with my friend, Omer Zak, when this
-quote appeared:
+workers in the software industry over E-mail with my friend, Omer Zak:
 
 http://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-next-film
 
@@ -103,11 +103,13 @@ Does the NSA actually stand a chance?
 »»
 
 While it is highly fictional, and cuts many corners, it does illustrate
-a point and consists of the theme of either “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
+a point and consists of the theme of a person’s moral choice between
+Publish or alternatively - Perish (
+http://unarmed.shlomifish.org/2615.html ).
 
-That's where you come in: please read it, spread the word (use the "#SummerNSA" hash-tag), and try to work on creating audios and videos
-out of it. For all I care, it can be an animation or played by people resembling the
-fictionalised versions of the two protagonists. Moreover, its Creative
+That's where you come in: please read it, spread the word (please use the "#SummerNSA" hash-tag), and try to work on creating audios and videos
+out of it. For all I care, it can be an animation, or played by people resembling the
+fictionalised versions of the two main protagonists. Moreover, its Creative
 Commons CC-by licence allows close to any reuse, as long as I am given credit. 
 
 Let a thousand flowers bloom.
@@ -120,14 +122,14 @@ ergo - miserable - nature. And we shouldn't be paranoid about that - because
 a paranoid person is unhappy and therefore - insecure.
 
 The NSA is an organisation full of unhappy people who are afraid of their own
-shadow, incompetent and evil ones. It contributes **nothing** to the
+shadow, incompetent, and evil ones. It contributes **nothing** to the
 well-being of Americans and the world at large, yet keep claiming the opposite
 is the fact. While it taps to many unencrypted messages on the Internet, in
 a vein and unfounded hope that it can reach genuine understanding, and spends
 a lot of money on storage and computers, it is completely non-transparent
 and won't publish anything of its conclusions.
 
-Whoever wishes to work for https://twitter.com/NSACareers must be in a state
+Whoever wishes to work for the NSA must be in a state
 of sin, as no one in his right mind will want to work for them, so they get
 either the most irrational people, the most incompetent ones, or the most
 evil ones (or usually - all three).
