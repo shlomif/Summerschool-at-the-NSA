@@ -94,7 +94,7 @@ Reading from the abstract:
 The Hollywood actresses Sarah Michelle Gellar (of Buffy fame) and Summer Glau
 (of xkcd notability) conspire to kick the ass of the NSA (= the United States
 government’s National Security Agency), while using special warfare that is
-completely non-violent. Two attractive, intelligent, and resourceful women
+completely non-violent. Two attractive, intelligent, and resourceful, women
 against a large, inefficient, federal government organisation whose estimated
 annual budget is several times their combined worth.
 
@@ -102,11 +102,11 @@ Does the NSA actually stand a chance?
 
 »»
 
-While it is highly fictional, it does illustrate a point and consists of the
-theme of “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
+While it is highly fictional and cuts many corners, it does illustrate
+a point and consists of the theme of either “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
 
-That's where you come in: please read it, spread the word (use the "#SummerNSA" hash-tag), and try to work on creating videos out of it. For
-all I care, it can be an animation or played by people resembling the
+That's where you come in: please read it, spread the word (use the "#SummerNSA" hash-tag), and try to work on creating audios and videos
+out of it. For all I care, it can be an animation or played by people resembling the
 fictionalised versions of the two protagonists. Moreover, its Creative
 Commons CC-by licence allows close to any reuse, as long as I am given credit. 
 
