@@ -62,7 +62,7 @@ SMG: And… funny!
 SGlau: Yes. Well, what does she like aside from <a href="http://en.wikipedia.org/wiki/Mother_Goose">Mother Goose</a>?
 
 SMG: Lots of stuff: Aesop's fables, stories from the Bible, fairy tales. There
-is something a little strange: I tried
+is something a little strange, though: I tried
 reciting <a href="http://en.wikipedia.org/wiki/Little_Red_Riding_Hood">“Little
 Red Riding Hood”</a> to her, and in the middle she screamed: “Mommy, mommy,
 stop it! That’s the stupidest story I’ve ever heard! I don’t wanna hear it
@@ -102,8 +102,8 @@ SGlau: Sounds really crazy, Sarah. Are you sure you’re OK?
 SMG: No, I’m not. My secret for success was that I was never completely sane,
 heh.
 
-SGlau: [Uses her smartphone] Hmmm… I see
-<a href="http://duckduckgo.com/">DuckDuckGo</a>
+SGlau: [Uses her smartphone] Hmmm… I see that the
+<a href="http://duckduckgo.com/">DuckDuckGo</a> search engine
 has some hits for “Summerschool at the NSA” and your name, hmm… and some
 <a href="http://www.shlomifish.org/humour/bits/facts/NSA/">NSA factoids</a>.
 Hah! “The NSA does not publish, they perish”, “The NSA knows
@@ -141,7 +141,8 @@ master.
 SMG: [Thoughtfully] Yes.
 
 SGlau: Well, I don’t suppose she will murder you literally. You know,
-<a href="http://xkcd.com/725/">xkcd number 725</a>.
+the old <a href="http://xkcd.com/725/">xkcd number 725</a> distinction between
+"literally" and "figuratively".
 
 SMG: Well, one thing I can tell you about parenthood is that such things
 can progress from figurative to literal, extremely quickly.
@@ -218,8 +219,8 @@ numerological insights from the Jewish bible, about what will happen in
 SGlau: [calms down] Oh my God, that’s the craziest thing I have ever heard.
 
 SMG: Anyway, we played along, and listened to what they had to say, and
-actually got a few good ideas from that, and in one of the recesses, one of
-the Yeshivah pupils asked me out, and I accepted.
+actually got a few good ideas from that. Moreover, in one of the recesses, one
+of the Yeshivah pupils asked me out, and I accepted.
 
 +++: So we went on a date.
 
@@ -368,13 +369,13 @@ Daniel: Yes, it sucks.
 
 SGlau: <a href="http://en.wikipedia.org/wiki/99_Problems">Ninety-nine problems</a>, eh?
 
-Daniel: And a Bitch ain’t one? yes!
+Daniel: And a bitch ain’t one? yes!
 
 Andrew: Actually, I have a hundred problems.
 
 SGlau: Ah, a significant other?
 
-Andrew: Yes, and me being a soldier makes her really bitchy.
+Andrew: Yes, and me being a soldier here makes her really bitchy.
 
 SGlau: Nice, what is her name?
 
@@ -409,7 +410,7 @@ Andrew: They perish, man.
 
 SGlau: “Publish or Perish”… life or death.
 
-Andrew: Heh! Ma´am, for the stereotype of an actress, you are one smart
+Andrew: Heh! Ma´am, for the stereotype of an actress, you sure are one smart
 young lady.
 
 SGlau: Thank you! I had some good teachers.
