@@ -102,7 +102,7 @@ Does the NSA actually stand a chance?
 
 »»
 
-While it is highly fictional and cuts many corners, it does illustrate
+While it is highly fictional, and cuts many corners, it does illustrate
 a point and consists of the theme of either “Publish or Perish” ( http://unarmed.shlomifish.org/2615.html ).
 
 That's where you come in: please read it, spread the word (use the "#SummerNSA" hash-tag), and try to work on creating audios and videos
