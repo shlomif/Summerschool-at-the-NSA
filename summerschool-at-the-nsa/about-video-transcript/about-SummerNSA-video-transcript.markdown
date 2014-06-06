@@ -10,7 +10,7 @@ I first learned of the NSA in the film Sneakers (
 http://en.wikipedia.org/wiki/Sneakers_%281992_film%29 ), which I watched in
 high school and enjoyed, where the NSA plays an unflattering role.
 
-Shortly after high school, I was employed for several workplaces and then
+Shortly after high school, I was employed at several workplaces and then
 during 1997 joined the Technion. 1996 was when the Internet and the Web 1.0
 craze started, and everone and their mother were looking for good tech workers.
 Moreover, shortly after that, the show Buffy, the Vampire Slayer
