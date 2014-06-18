@@ -24,7 +24,8 @@ notability, abbreviated as “SGLau”) conspire
 to kick the ass of the
 <a href="https://en.wikipedia.org/wiki/National_Security_Agency">NSA</a>
 (= the United States government’s National Security Agency),
-while using special warfare that is completely non-violent.
+while using special warfare that is completely non-violent and
+non-destructive.
 
 This is surrealistic realism and takes place in the spring-summer of 2013 -
 far-fetched, but could actually happen.]
@@ -68,7 +69,7 @@ Red Riding Hood”</a> to her, and in the middle she screamed: “Mommy, mommy,
 stop it! That’s the stupidest story I’ve ever heard! I don’t wanna hear it
 again.”.
 
-SGlau: Wow… smart lass!
+SGlau: Wow… what a smart lass!
 
 SMG: Oh, and when it comes to television, she loves
 watching <a href="http://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic"><i>My
@@ -1118,6 +1119,8 @@ guest — it won’t be a lie…
 
 <s id="summer_glau_presents__the_talk" title="The Talk">
 
+<s id="summer_glau_presents__the_talk__intro" title="Introducing Summer Glau">
+
 [ An NSA conference room. Richard is standing on the stage. SGlau set up the
 camera to film the talk on the table, and connected her tablet to the
 projector. ]
@@ -1131,7 +1134,11 @@ unenthusiastic applause.]
 SGlau: Thank you, Richard. OK, my talk today will be about lots of random
 stuff, but it should be a fun talk and you’ll see its theme soon enough.
 
-+++: Let’s start:… [The screen shows a photo of David and Goliath.]
+</s>
+
+<s id="summer_glau_presents__the_talk__goliath" title="David and Goliath">
+
+SGlau: Let’s start:… [The screen shows a photo of David and Goliath.]
 
 +++: yes, <a href="http://en.wikipedia.org/wiki/Goliath">David and Goliath</a>.
 
@@ -1173,6 +1180,10 @@ or the many phrases it used to be called.
 
 SGlau: Thank you. OK, let’s move on.
 
+</s>
+
+<s id="summer_glau_presents__the_talk__two_guns" title="A Gun in Each Hand">
+
 [Fade to black. Cut. Fade in.]
 
 SGlau: You may have seen
@@ -1186,6 +1197,10 @@ combining them. It was time consuming, but doable.
 +++: Whatever you do, you should realise to never shoot while you’re running.
 You only see it in movies, but in real life, it’s a spectacularly bad idea.
 
+</s>
+
+<s id="summer_glau_presents__the_talk__amateur_fighters" title="Amateur Fighters">
+
 [Fade to black. Cut. Fade in.]
 
 SGlau: In <a href="http://en.wikipedia.org/wiki/The_Three_Musketeers">The
@@ -1195,7 +1210,7 @@ eventually becomes the best fighter in France. This is despite the fact that
 his peers, Athos, Porthos, and Aramis, have much more experience and training.
 
 +++: It may seem farfetched, but before the industrialisation of the Far East,
-and the way the West interpreted martial arts with the coloured belts and
+and the way the West interpreted martial arts, with the coloured belts and
 all, there were regional masters of these arts, who practised them as much as
 they could and honed their skills. However, despite all that, they never ruled
 out that they would one day fight against someone who never faught before,
@@ -1222,6 +1237,8 @@ General Alexander’s Voice: Hey, what’s going on here? Get back to work! And
 who might you be?
 
 [Cut.]
+
+</s>
 
 <!-- / summer_glau_presents__the_talk -->
 
@@ -1267,8 +1284,9 @@ SGlau: Fine. First of all, you must realise that the NSA is now in deep
 trouble. A top-secret and supposedly ultra-secure organisation with a budget
 in the 100s of millions of dollars, and yet me, a young and pretty woman,
 whose budget for this operation has yet to exceed a million dollars, was able
-to infiltrate this camp and take video footage which I have broadcast
-on the Internet. Can you imagine the fiasco that the media will do over that?
+to infiltrate this build and take video footage which I have broadcast
+on the Internet. Can you imagine the fiasco that the media will make over
+this?
 
 [The audience bursts out laughing and clapping.]
 
@@ -1338,7 +1356,7 @@ Know What You Did Last Summer</i></a> and
 were cheesy thrillers, and not too scary ones.
 
 +++: Anyway, we invited several young people for internship during then,
-and due to the conditions here, it became a meme among them that “If
+and due to the conditions here, it became a common adage among them that “If
 <i>Summerschool at the NSA</i> will be Sarah Michelle Gellar’s next film, it
 will be scary.”, or “<i>Summerschool at the NSA</i> may might as well
 be Sarah Michelle Gellar’s next movie”, and most interns left citing this. The
@@ -1394,7 +1412,8 @@ thing they tell us in self-defence classes is to always avoid a battle, because
 it is better to be poorer, or ridiculed, or saddened, or depressed,
 than it is to be dead or injured.
 
-+++: Saladin took a huge risk in liberating Palestine from Christian rule,
++++: Saladin took a huge risk in liberating Palestine from the rule
+of the Knights Templar,
 but it had to be done, and he did it by being fair, and chivalrous and
 forgiving, and became an instant hero and a model for emulation for centuries.
 
