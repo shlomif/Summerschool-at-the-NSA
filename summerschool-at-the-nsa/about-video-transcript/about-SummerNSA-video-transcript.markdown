@@ -110,7 +110,7 @@ http://unarmed.shlomifish.org/2615.html ).
 That's where you come in: please read it, spread the word (please use the "#SummerNSA" hash-tag), and try to work on creating audios and videos
 out of it. For all I care, it can be an animation, or played by people resembling the
 fictionalised versions of the two main protagonists. Moreover, its Creative
-Commons CC-by licence allows close to any reuse, as long as I am given credit. 
+Commons CC-by licence allows close to any reuse, as long as I am given credit.
 
 Let a thousand flowers bloom.
 
