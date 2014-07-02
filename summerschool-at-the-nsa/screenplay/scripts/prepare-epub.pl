@@ -186,7 +186,7 @@ my $epub_fn = $epub_basename . ".epub";
 {
     chdir ($target_dir);
 
-    my @cmd = ("ebookmaker", "-f", "epub", "-o", $epub_fn, $json_filename);
+    my @cmd = ("ebookmaker", "-o", $epub_fn, $json_filename);
     print join(' ', @cmd), "\n";
     system (@cmd)
         and die "cannot run ebookmaker - $!";
