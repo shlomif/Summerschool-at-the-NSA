@@ -12,8 +12,6 @@ include screenplays_common.mak
 
 SELINA_UPLOAD_TEMP_DEST = temp-summerschool-at-the-nsa
 
-ENG_EPUB = $(NAME).epub
-
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
 upload:
