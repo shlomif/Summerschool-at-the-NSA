@@ -48,8 +48,6 @@ DOCBOOK_RNG = ./rng/docbook.rng
 # XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-snapshot/
 
-EPUB_SCRIPT = $(XSL_SNAPSHOT_HOME)/epub/bin/dbtoepub
-
 $(ENG_HTML_FOR_OOO): $(ENG_XHTML)
 	cat $< | perl -lne 'print unless m{\A<\?xml}' > $@
 
