@@ -41,9 +41,6 @@ $(DOCS_SCREENPLAY_RTF): %.rtf: %.fo
 
 rtf: $(DOCS_SCREENPLAY_RTF)
 
-# XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
-XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-snapshot/
-
 $(ENG_HTML_FOR_OOO): $(ENG_XHTML)
 	cat $< | perl -lne 'print unless m{\A<\?xml}' > $@
 
