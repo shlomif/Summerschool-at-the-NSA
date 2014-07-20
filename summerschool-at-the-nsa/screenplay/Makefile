@@ -8,7 +8,7 @@ include screenplays_common.mak
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
 upload:
-	rsync -v --progress -a $(FILES) $${__HOMEPAGE_REMOTE_PATH}/$(SELINA_UPLOAD_TEMP_DEST)/
+	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(SELINA_UPLOAD_TEMP_DEST)/
 
 $(DOCS_SCREENPLAY_XML): %.screenplay-xml.xml: %.screenplay-text.txt
 	perl -MXML::Grammar::Screenplay::App::FromProto -e 'run()' -- \
