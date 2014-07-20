@@ -1,10 +1,3 @@
-FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
-		$(DOCS_SCREENPLAY_TEXT) \
-		style.css style-heb.css \
-		README.html
-
-# The-Enemy-English.xhtml \
-
 NAME = Summerschool-at-the-NSA
 DOCS_BASE = $(NAME) $(NAME)-hebrew
 
