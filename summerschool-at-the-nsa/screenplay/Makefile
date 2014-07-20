@@ -41,10 +41,6 @@ $(DOCS_SCREENPLAY_RTF): %.rtf: %.fo
 
 rtf: $(DOCS_SCREENPLAY_RTF)
 
-# DOCBOOK_RNG = http://www.docbook.org/xml/5.0/rng/docbook.rng
-
-DOCBOOK_RNG = ./rng/docbook.rng
-
 # XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-snapshot/
 
