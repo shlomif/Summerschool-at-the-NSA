@@ -48,31 +48,6 @@ my $target_dir = $obj->target_dir;
                     scheme => 'URL',
                     value => 'http://www.shlomifish.org/humour/Summerschool-at-the-NSA/',
                 },
-                contents =>
-                [
-                    {
-                        "type" => "toc",
-                        "source" => "toc.html"
-                    },
-                    {
-                        type => 'text',
-                        source => "scene-*.xhtml",
-                    },
-                ],
-                toc  => {
-                    "depth" => 2,
-                    "parse" => [ "text", ],
-                    "generate" => {
-                        "title" => "Index"
-                    },
-                },
-                guide => [
-                    {
-                        type => "toc",
-                        title => "Index",
-                        href => "toc.html",
-                    },
-                ],
             },
         },
     );
