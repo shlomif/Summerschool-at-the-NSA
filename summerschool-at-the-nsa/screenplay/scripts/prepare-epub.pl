@@ -3,9 +3,6 @@
 use strict;
 use warnings;
 
-use IO::All;
-use JSON::MaybeXS qw(encode_json);
-
 use utf8;
 
 use Shlomif::Screenplays::EPUB;
@@ -19,10 +16,11 @@ my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'Summerschool-at-the-NSA';
-
     $obj->epub_basename($epub_basename);
-    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
-        encode_json(
+
+    $obj->output_json(
+        {
+            data =>
             {
                 filename => $epub_basename,
                 title => q/Summerschool at the NSA/,
@@ -76,8 +74,6 @@ my $target_dir = $obj->target_dir;
                     },
                 ],
             },
-        ),
+        },
     );
-
-    $obj->output_json;
 }
