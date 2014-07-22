@@ -262,7 +262,7 @@ Waitress: You’re welcome. Enjoy your order.
 
 +++: Enjoy your conspiring. I'll be over there if you need anything.
 
-SMG: [smiling] many thanks. We will.
+SMG: [Smiling] many thanks. We will.
 
 SGLau: yes, thank you.
 
@@ -272,7 +272,7 @@ SGlau: So what’s the plan? Gotta be prepared.
 
 SMG: Here’s what I was thinking, but a lot of it is gonna be play by ear.
 
-SGlau: [grabs a cookie] I’m listening!
+SGlau: [Grabs a cookie] I’m listening!
 
 [Fade to black. Cut]
 
@@ -553,7 +553,7 @@ Daniel: Awesome.
 
 SGlau: But before that - phone call.
 
-[She takes our her smartphone, and calls.]
+[She takes out her smartphone, and calls.]
 
 SGlau: [To the phone] Hey Sarah! Good news: we got clearance. Yes… finally…
 well, you know what they say about conquering reality… sure… hah hah. OK,
@@ -631,10 +631,10 @@ SGlau and Daniel enter through the door.]
 
 SGlau: Thanks, Daniel! I had a great time.
 
-Daniel: You’re welcome, Summer. I had a great time too. Never thought that
+Daniel: You’re welcome, Summer. I had a great time, too. Never thought that
 a date in a fast food restaurant could be so much fun.
 
-SGlau: Thanks. Well… let’s get back to business - how do I enter into
+SGlau: Thanks. Well… Let’s get back to business - how do I enter into
 the building?
 
 Andrew: Hi, peeps.
