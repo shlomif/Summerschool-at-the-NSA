@@ -14,15 +14,14 @@ my $obj = Shlomif::Screenplays::EPUB->new;
 $obj->run;
 
 my $gfx = $obj->gfx;
-my $filename = $obj->filename;
 my $out_fn = $obj->out_fn;
 my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'Summerschool-at-the-NSA';
-    my $json_filename = "$epub_basename.json";
 
-    io->file($target_dir . '/' . $json_filename)->utf8->print(
+    $obj->epub_basename($epub_basename);
+    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
         encode_json(
             {
                 filename => $epub_basename,
