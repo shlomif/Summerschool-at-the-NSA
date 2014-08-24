@@ -7,12 +7,18 @@ use utf8;
 
 use Shlomif::Screenplays::EPUB;
 
-my $obj = Shlomif::Screenplays::EPUB->new;
+my $gfx = 'SummerNSA-logo-selected-from-GIMP.png';
+my $obj = Shlomif::Screenplays::EPUB->new(
+    {
+        images =>
+        {
+            $gfx => "images/$gfx",
+        },
+    }
+);
 $obj->run;
 
-my $gfx = $obj->gfx;
 my $out_fn = $obj->out_fn;
-my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'Summerschool-at-the-NSA';
