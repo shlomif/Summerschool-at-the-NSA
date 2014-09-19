@@ -1,4 +1,4 @@
-SVG = summer-schools-the-nsa.svg
+SVG = summer-glau-schools-the-nsa.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
 
