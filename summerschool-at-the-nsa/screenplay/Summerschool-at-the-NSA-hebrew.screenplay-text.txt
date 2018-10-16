@@ -1,4 +1,4 @@
-<s id="humanity" title="„אנושות“ - הסרט">
+<s id="humanity" lang="he" title="„אנושות“ - הסרט">
 
 [הערה: תסריט זה נכתב על ידי
 <a href="http://www.shlomifish.org/">שלומי פיש</a>

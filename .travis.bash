@@ -35,6 +35,7 @@ then
     h=~/Docs/homepage/homepage
     mkdir -p "$h"
     git clone https://github.com/shlomif/shlomi-fish-homepage "$h/trunk"
+
 elif test "$cmd" = "build"
 then
     export SCREENPLAY_COMMON_INC_DIR="$PWD/screenplays-common"
