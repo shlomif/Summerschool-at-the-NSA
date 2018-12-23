@@ -8,7 +8,7 @@ cache:
         - $HOME/tidyall_d
 
 os: linux
-dist: trusty
+dist: xenial
 before_install:
     - . .travis.bash --cmd before_install
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
