@@ -2,6 +2,23 @@
 # (See https://github.com/shlomif/ci-gen-framework )
 # Please do not edit directly.
 
+addons:
+    apt:
+        packages:
+            - ack-grep
+            - cpanminus
+            - dbtoepub
+            - docbook-defguide
+            - docbook-xsl
+            - libperl-dev
+            - libxml-libxml-perl
+            - libxml-libxslt-perl
+            - make
+            - perl
+            - python3-pip
+            - python3-setuptools
+            - tidy
+            - xsltproc
 cache:
     directories:
         - $HOME/perl_modules
