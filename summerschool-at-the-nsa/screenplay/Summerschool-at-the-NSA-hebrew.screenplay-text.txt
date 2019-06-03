@@ -7,7 +7,7 @@
 [תסריט זה זמין תחת
 <a href="http://creativecommons.org/licenses/by-sa/3.0">Creative Commons
 Attribution-Share Alike 3.0 Unported Licence (CC-by-sa)</a>
-(או לבחירתכם - כל גרסה מאוחרת יותר של אותו רשיון.)]
+(או לבחירתכם - כל גרסה מאוחרת יותר של אותו רישיון.)]
 
 <s id="prologue" title="פרולוג">
 
