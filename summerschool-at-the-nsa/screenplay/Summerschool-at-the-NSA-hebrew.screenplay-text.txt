@@ -2,7 +2,7 @@
 
 [הערה: תסריט זה נכתב על ידי
 <a href="http://www.shlomifish.org/">שלומי פיש</a>
-והינו יצירה מקורית.]
+והנו יצירה מקורית.]
 
 [תסריט זה זמין תחת
 <a href="http://creativecommons.org/licenses/by-sa/3.0">Creative Commons
