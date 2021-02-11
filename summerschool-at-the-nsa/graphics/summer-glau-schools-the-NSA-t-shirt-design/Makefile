@@ -12,7 +12,7 @@ $(PNG): $(SVG)
 	inkscape --export-png=$@ --export-dpi=$(DPI) $<
 
 $(JPEG): $(PNG)
-	convert $(PNG) $(JPEG)
+	gm convert $(PNG) $(JPEG)
 
 upload: all
 	rsync --progress -v -a --inplace *.png $(SVG) *.jpg $(__HOMEPAGE_REMOTE_PATH)/summer-glau-schools-the-nsa/
