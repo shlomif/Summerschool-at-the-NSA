@@ -33,7 +33,7 @@ before_install:
     - cpanm App::XML::DocBook::Builder File::Find::Object::Rule HTML::T5 IO::All Path::Tiny XML::Grammar::Screenplay
     - git clone https://github.com/shlomif/screenplays-common
 perl:
-    - "5.26"
+    - "5.30"
 python:
     - "3.8"
 script:
