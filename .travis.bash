@@ -23,15 +23,25 @@ then
 elif test "$cmd" = "before_install"
 then
 
-    . /etc/lsb-release
+    if test -e /etc/lsb-release
+    then
+        . /etc/lsb-release
+        sudo add-apt-repository -y ppa:inkscape.dev/stable
+        sudo apt -q update
+        sudo apt -y install inkscape
+    fi
+    cpanm --local-lib=~/perl_modules local::lib
     if test "$DISTRIB_ID" = 'Ubuntu'
     then
         if test "$DISTRIB_RELEASE" = '14.04'
         then
             sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
         fi
+        eval "$(GIMME_GO_VERSION=1.13 gimme)"
+    elif test -e /etc/fedora-release
+    then
+        sudo dnf --color=never install -y hspell-devel perl-devel ruby-devel
     fi
-    cpanm local::lib
 
 
 elif test "$cmd" = "install"
