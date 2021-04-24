@@ -44,6 +44,8 @@ Attribution 3.0 Unported Licence (CC-by)</a>
 
 <s id="we_are_scheming" title="“We’re Scheming”">
 
+<s id="smg_about_her_daughter" title="Sarah Michelle Gellar about Her Daughter">
+
 [Black screen, SMG’s voice, while emulating her daughter.]
 
 SMG: Humpty Dumpty sat on a wall. Humpty Dumpty had a great fall. All the
@@ -88,7 +90,11 @@ SMG: Sounds like a plan. I’ll consider joining.
 
 SGlau: Cool, heh.
 
-+++: Anyway, why did you schedule meeting me here?
+</s>
+
+<s id="lets_get_straight_to_business" title="“Let’s get straight to business”">
+
+SGlau: Anyway, why did you schedule meeting me here?
 
 SMG: OK, let’s get straight to business. Summer: I’d like to hire you to star
 in my latest production: <i>Sarah Michelle Gellar’s Summerschool at the NSA</i>
@@ -148,9 +154,13 @@ the old <a href="http://xkcd.com/725/">xkcd number 725</a> distinction between
 SMG: Well, one thing I can tell you about parenthood is that such things
 can progress from figurative to literal, extremely quickly.
 
-[SGlau laughs.
+[SGlau laughs.]
 
-A waitress arrives. ]
+</s>
+
+<s id="taking_the_order" title="Taking the order">
+
+[ A waitress arrives. ]
 
 Waitress: Hi, hope you are having a good time. What can I get you?
 
@@ -170,8 +180,13 @@ SGlau: Yes, we are conspiring.
 
 Waitress: OK… [looks puzzled] your order should arrive shortly.
 
-[The waitress goes away.
+[The waitress goes away.]
 
+</s>
+
+<s id="who_is_the_messiah" title="Who is the Messiah?">
+
+[
 The music changes to <a href="https://www.youtube.com/watch?v=Up1hGZhvjzs">“Kill
 Dash Nine” by Monzy</a>.
 ]
@@ -206,7 +221,7 @@ SGlau: Sounds crazy, but I’m a very non-normative girl myself.
 SMG: Do you want to hear the longer story?
 
 SGlau: I guess, unless you want me to get rid of the NSA now, by orders from
-the Messiah, which is none other than Sarah Michelle Gellar.
+the Messiah, who is none other than Sarah Michelle Gellar.
 
 SMG: We’ve got a lot of time for that. OK: it was 1997-1998ish, Buffy started
 airing and became a cult series. So, one day a group of <a href="http://en.wikipedia.org/wiki/Yeshiva">yeshivah</a> pupils
@@ -275,6 +290,8 @@ SMG: Here’s what I was thinking, but a lot of it is gonna be play by ear.
 SGlau: [Grabs a cookie] I’m listening!
 
 [Fade to black. Cut]
+
+</s>
 
 </s>
 
