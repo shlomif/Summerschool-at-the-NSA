@@ -151,6 +151,10 @@ SGlau: Well, I don’t suppose she will murder you literally. You know,
 the old <a href="http://xkcd.com/725/">xkcd number 725</a> distinction between
 "literally" and "figuratively".
 
+[
+<img alt="xkcd 725: “literally” != “figuratively” ; and is often redundant" src="./images/xkcd-725-literally.png" />
+]
+
 SMG: Well, one thing I can tell you about parenthood is that such things
 can progress from figurative to literal, extremely quickly.
 
