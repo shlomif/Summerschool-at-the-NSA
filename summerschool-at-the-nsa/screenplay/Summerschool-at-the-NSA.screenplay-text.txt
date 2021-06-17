@@ -483,6 +483,10 @@ someone writes a detailed response criticising a very bad blog comment,
 and signs it as me. It may have started a silly trend, but I have not
 practised it myself. At least not yet, heh.
 
+[
+<img alt="xkcd 406: Venting" src="./images/xkcd-406-venting.png" />
+]
+
 Daniel: Yeah, what an awesome panel it was.
 
 Andrew: Wow! So you’re also an xkcd-head? That’s so cool.
