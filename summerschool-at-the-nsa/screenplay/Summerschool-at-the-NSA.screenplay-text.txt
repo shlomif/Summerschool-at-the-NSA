@@ -320,6 +320,8 @@ guarding station. She enters.]
 
 <s id="getting_clearance__at_the_guards" title="At the guarding station">
 
+<s id="will_you_shoot_a_terminator" title="Will you shoot a terminator?">
+
 [There are two U.S. soldiers standing there holding machine guns - Andrew, who
 is Black, and Daniel, who is a Caucasian. SGlau enters, and takes off her
 sunglasses. ]
@@ -382,6 +384,10 @@ time.
 Andrew: Heh, OK, Ma’am, you can let go of them.
 
 [SGlau puts her hands down. Andrew returns back behind the counter.]
+
+</s>
+
+<s id="ninety_nine_problems" title="99 Problems">
 
 SGlau: So? How’s life?
 
@@ -468,6 +474,10 @@ SGlau: Thank you! I had some good teachers.
 
 [Pause.]
 
+</s>
+
+<s id="summer_glau_life" title="Summer Glau's Life">
+
 Daniel: Anyway, talking about all that is a bit depressing. Ms. Glau, your
 life should be happier than ours, can you tell us about it?
 
@@ -509,6 +519,10 @@ Daniel: Heh, maybe you two are a match made in heaven.
 SGlau: Amen, brother!
 
 Daniel: Heh.
+
+</s>
+
+<s id="getting_clearance__atlas_shruggeded" title="Atlas Shruggeded">
 
 Andrew: So, Ms. Glau, what is your business here? A pretty California girl
 like you, does not come to the NSA headquarters of all places, randomly,
@@ -562,6 +576,8 @@ Andrew: Heh, it only gets better and better. OK, let’s get back to business -
 follow us.
 
 [Cut.]
+
+</s>
 
 </s>
 
