@@ -234,7 +234,7 @@ yeshivah arrived to the studios saying they have some
 numerological insights from the Jewish bible, about what will happen in
 <a href="http://en.wikipedia.org/wiki/Sunnydale">Sunnydale</a> next.
 
-[SGlau burst out laughing.]
+[SGlau bursts out laughing.]
 
 SGlau: [calms down] Oh my God, that’s the craziest thing I have ever heard.
 
@@ -767,8 +767,8 @@ rabbit in a week.
 +++: Then, it’s the KGB’s turn. They install secret agents, bribe or threaten
 a few animals, and find the rabbit in two weeks.
 
-+++: Then it’s the <a href="https://en.wikipedia.org/wiki/Shin_Bet">Shin Bet</a>’s turn. The Shin Bet being the Israeli internal
-security agency.
++++: Then it’s the <a href="https://en.wikipedia.org/wiki/Shin_Bet">Shin
+Bet</a>’s turn. The Shin Bet being the Israeli internal security agency.
 
 Andrew: Yeah, I know.
 
@@ -1461,7 +1461,7 @@ SGlau: Let me ask you this - do you think unhappy people can be secure?
 General Alexander: [thinks for a moment.] Definitely not. A miserable person
 always causes his downfall.
 
-SGlau: Well, were you happy or miserable.
+SGlau: Well, were you happy or miserable?
 
 General Alexander: Oh, we were miserable. I guess I forgot everything that
 I learned about
@@ -1471,7 +1471,7 @@ Man, I remember being exalted after finishing to read his biography.
 +++: I forgot all about that.
 
 SGlau: Yes, yes. Also, do you think keeping all the NSA’s secrets to
-yourself was a sound strategy.
+yourself was a sound strategy?
 
 General Alexander: [thinks for a moment] “Publish or Perish”, ma’am. No way
 around it.
@@ -1482,7 +1482,7 @@ SGlau: Exactly.
 or an action heroine than what you see in films and on television. The
 “into the maelstrom” action there is good for business, and for captivating
 audiences, but not something a really good warrior will ever do. The first
-thing they tell us in self-defence classes is to always avoid a battle, because
+thing they tell us in self-defence classes is to always try to avoid a battle, because
 it is better to be poorer, or ridiculed, or saddened, or depressed,
 than it is to be dead or injured.
 
@@ -1582,4 +1582,3 @@ Hart: “7 Minutes”</a>.
 <!-- / summerschool-at-the-NSA (Main) -->
 
 </s>
-
