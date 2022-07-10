@@ -1,5 +1,5 @@
 NAME = Summerschool-at-the-NSA
-DOCS_BASE = $(NAME) $(NAME)-hebrew
+DOCS_BASE = $(NAME)
 
 SELINA_UPLOAD_TEMP_DEST = temp-summerschool-at-the-nsa
 
