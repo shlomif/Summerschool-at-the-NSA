@@ -166,9 +166,9 @@ can progress from figurative to literal, extremely quickly.
 
 [ A waitress arrives. ]
 
-Waitress: Hi, hope you are having a good time. What can I get you?
+Waitress: Hi, I hope you are having a good time. What can I get you?
 
-SMG: OK, I’ll have some peach infusion, and bring us a jug of water with two
+SMG: OK, I’ll have some peach infusion, and please bring us a jug of water with two
 glasses.
 
 SGlau: [stops laughing] I’ll have some Lipton orange tea, and can you also
@@ -240,11 +240,11 @@ SGlau: [calms down] Oh my God, that’s the craziest thing I have ever heard.
 
 SMG: Anyway, we played along, and listened to what they had to say, and
 actually got a few good ideas from that. Moreover, in one of the recesses, one
-of the Yeshivah pupils asked me out, and I accepted.
+of the yeshivah pupils asked me out, and I accepted.
 
 +++: So we went on a date.
 
-SGlau: So you mean like the 1997ish Sarah Michelle Gellar, and a Yeshivah
+SGlau: So you mean like the 1997ish Sarah Michelle Gellar, and a yeshivah
 pupil… On a date?!
 
 SMG: Yes! And I actually had some weirder dates as a happy spinster.
@@ -573,7 +573,7 @@ Andrew and Daniel: Wow! She’s also behind this?
 SGlau: Yes, she is.
 
 Andrew: Heh, it only gets better and better. OK, let’s get back to business -
-follow us.
+please follow us.
 
 [Cut.]
 
@@ -1114,7 +1114,7 @@ today.
 
 [Peter enters.]
 
-Peter: Hi, who are you?
+Peter: Hi, who might you be?
 
 Mrs. Katz: Hi Peter, this is your uncle David, and this is a good friend
 of ours, Ms. Glau.
